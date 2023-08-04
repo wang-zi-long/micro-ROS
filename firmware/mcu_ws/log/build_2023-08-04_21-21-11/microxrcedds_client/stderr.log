@@ -1,0 +1,39 @@
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:[m[K In function '[01m[Klisten_message[m[K':
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:676:22:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function '[01m[KxTaskGetTickCount[m[K' [[01;35m[K-Wimplicit-function-declaration[m[K]
+     uint32_t start = [01;35m[KxTaskGetTickCount[m[K();
+                      [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:676:22:[m[K [01;35m[Kwarning: [m[Kconversion to '[01m[Kuint32_t[m[K' {aka '[01m[Klong unsigned int[m[K'} from '[01m[Kint[m[K' may change the sign of the result [[01;35m[K-Wsign-conversion[m[K]
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:681:24:[m[K [01;35m[Kwarning: [m[Kconversion to '[01m[Kuint32_t[m[K' {aka '[01m[Klong unsigned int[m[K'} from '[01m[Kint[m[K' may change the sign of the result [[01;35m[K-Wsign-conversion[m[K]
+         uint32_t end = [01;35m[KxTaskGetTickCount[m[K();
+                        [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:682:9:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function '[01m[Kprintf[m[K' [[01;35m[K-Wimplicit-function-declaration[m[K]
+         [01;35m[Kprintf[m[K("recv_message start (t0): %d\npoll_ms : %d\nrecv_message end   (t1): %d\n", start, poll_ms, end);
+         [01;35m[K^~~~~~[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:682:9:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function '[01m[Kprintf[m[K'
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:682:9:[m[K [01;36m[Knote: [m[Kinclude '[01m[K<stdio.h>[m[K' or provide a declaration of '[01m[Kprintf[m[K'
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:22:1:[m[K
++[32m[K#include <stdio.h>[m[K
+ 
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:682:9:[m[K
+         [01;36m[Kprintf[m[K("recv_message start (t0): %d\npoll_ms : %d\nrecv_message end   (t1): %d\n", start, poll_ms, end);
+         [01;36m[K^~~~~~[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:682:43:[m[K [01;35m[Kwarning: [m[Kformat '[01m[K%d[m[K' expects argument of type '[01m[Kint[m[K', but argument 2 has type '[01m[Kuint32_t[m[K' {aka '[01m[Klong unsigned int[m[K'} [[01;35m[K-Wformat=[m[K]
+         printf("recv_message start (t0): [01;35m[K%d[m[K\npoll_ms : %d\nrecv_message end   (t1): %d\n", [32m[Kstart[m[K, poll_ms, end);
+                                          [01;35m[K~^[m[K                                                [32m[K~~~~~[m[K
+                                          [32m[K%ld[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:682:86:[m[K [01;35m[Kwarning: [m[Kformat '[01m[K%d[m[K' expects argument of type '[01m[Kint[m[K', but argument 4 has type '[01m[Kuint32_t[m[K' {aka '[01m[Klong unsigned int[m[K'} [[01;35m[K-Wformat=[m[K]
+         printf("recv_message start (t0): %d\npoll_ms : %d\nrecv_message end   (t1): [01;35m[K%d[m[K\n", start, poll_ms, [32m[Kend[m[K);
+                                                                                     [01;35m[K~^[m[K                     [32m[K~~~[m[K
+                                                                                     [32m[K%ld[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:686:15:[m[K [01;35m[Kwarning: [m[Kconversion to '[01m[Kuint32_t[m[K' {aka '[01m[Klong unsigned int[m[K'} from '[01m[Kint[m[K' may change the sign of the result [[01;35m[K-Wsign-conversion[m[K]
+         end = [01;35m[KxTaskGetTickCount[m[K();
+               [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session.c:687:43:[m[K [01;35m[Kwarning: [m[Kformat '[01m[K%d[m[K' expects argument of type '[01m[Kint[m[K', but argument 2 has type '[01m[Kuint32_t[m[K' {aka '[01m[Klong unsigned int[m[K'} [[01;35m[K-Wformat=[m[K]
+         printf("read_message end   (t2): [01;35m[K%d[m[K\n", [32m[Kend[m[K);
+                                          [01;35m[K~^[m[K     [32m[K~~~[m[K
+                                          [32m[K%ld[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/util/time.c:[m[K In function '[01m[Kuxr_nanos[m[K':
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/util/time.c:60:5:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function '[01m[Kclock_gettime[m[K'; did you mean '[01m[Klocaltime[m[K'? [[01;35m[K-Wimplicit-function-declaration[m[K]
+     [01;35m[Kclock_gettime[m[K(CLOCK_REALTIME, &ts);
+     [01;35m[K^~~~~~~~~~~~~[m[K
+     [32m[Klocaltime[m[K
