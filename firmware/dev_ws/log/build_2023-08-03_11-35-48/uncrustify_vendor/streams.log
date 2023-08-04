@@ -1,0 +1,224 @@
+[0.015s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/neu/Desktop/microros_ws/firmware/dev_ws/ament/uncrustify_vendor -DCMAKE_INSTALL_PREFIX=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor
+[0.050s] -- The C compiler identification is GNU 9.4.0
+[0.088s] -- The CXX compiler identification is GNU 9.4.0
+[0.092s] -- Check for working C compiler: /usr/bin/cc
+[0.136s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.137s] -- Detecting C compiler ABI info
+[0.181s] -- Detecting C compiler ABI info - done
+[0.188s] -- Detecting C compile features
+[0.189s] -- Detecting C compile features - done
+[0.190s] -- Check for working CXX compiler: /usr/bin/c++
+[0.241s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.241s] -- Detecting CXX compiler ABI info
+[0.293s] -- Detecting CXX compiler ABI info - done
+[0.301s] -- Detecting CXX compile features
+[0.301s] -- Detecting CXX compile features - done
+[0.302s] -- Found ament_cmake: 1.3.5 (/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake/share/ament_cmake/cmake)
+[0.462s] -- Found Python3: /usr/bin/python3.8 (found version "3.8.10") found components: Interpreter 
+[0.614s] -- Configuring done
+[0.616s] -- Generating done
+[0.616s] -- Build files have been written to: /home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor
+[0.621s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor' returned '0': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/neu/Desktop/microros_ws/firmware/dev_ws/ament/uncrustify_vendor -DCMAKE_INSTALL_PREFIX=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor
+[0.622s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor -- -j20 -l20
+[0.646s] [35m[1mScanning dependencies of target uncrustify-0.72.0[0m
+[0.652s] [ 12%] [34m[1mCreating directories for 'uncrustify-0.72.0'[0m
+[0.694s] [ 25%] [34m[1mPerforming download step (git clone) for 'uncrustify-0.72.0'[0m
+[0.706s] Cloning into 'uncrustify-0.72.0'...
+[26.883s] HEAD is now at 1d3d8fa5 Merge pull request #2972 from guy-maurel/uncrustify-RC-0.72.0
+[26.917s] [ 37%] [34m[1mPerforming patch step for 'uncrustify-0.72.0'[0m
+[26.917s] [ 50%] [34m[1mNo update step for 'uncrustify-0.72.0'[0m
+[26.935s] [ 62%] [34m[1mPerforming configure step for 'uncrustify-0.72.0'[0m
+[26.940s] Not searching for unused variables given on the command line.
+[26.970s] -- The C compiler identification is GNU 9.4.0
+[27.007s] -- The CXX compiler identification is GNU 9.4.0
+[27.011s] -- Check for working C compiler: /usr/bin/cc
+[27.054s] -- Check for working C compiler: /usr/bin/cc -- works
+[27.054s] -- Detecting C compiler ABI info
+[27.100s] -- Detecting C compiler ABI info - done
+[27.107s] -- Detecting C compile features
+[27.108s] -- Detecting C compile features - done
+[27.109s] -- Check for working CXX compiler: /usr/bin/c++
+[27.159s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[27.160s] -- Detecting CXX compiler ABI info
+[27.210s] -- Detecting CXX compiler ABI info - done
+[27.219s] -- Detecting CXX compile features
+[27.219s] -- Detecting CXX compile features - done
+[27.252s] -- Found PythonInterp: /usr/bin/python3.8 (found version "3.8.10") 
+[27.252s] -- Performing Test CXXFLAG_Wall
+[27.303s] -- Performing Test CXXFLAG_Wall - Success
+[27.303s] -- Performing Test CXXFLAG_Wextra
+[27.352s] -- Performing Test CXXFLAG_Wextra - Success
+[27.353s] -- Performing Test CXXFLAG_Wshadow
+[27.402s] -- Performing Test CXXFLAG_Wshadow - Success
+[27.402s] -- Performing Test CXXFLAG_Wpointer_arith
+[27.453s] -- Performing Test CXXFLAG_Wpointer_arith - Success
+[27.453s] -- Performing Test CXXFLAG_Wcast_qual
+[27.503s] -- Performing Test CXXFLAG_Wcast_qual - Success
+[27.504s] -- Performing Test CXXFLAG_Wcast_align
+[27.554s] -- Performing Test CXXFLAG_Wcast_align - Success
+[27.554s] -- Performing Test CXXFLAG_Wc_11_extensions
+[27.573s] -- Performing Test CXXFLAG_Wc_11_extensions - Failed
+[27.573s] -- Looking for C++ include inttypes.h
+[27.624s] -- Looking for C++ include inttypes.h - found
+[27.625s] -- Looking for C++ include memory.h
+[27.678s] -- Looking for C++ include memory.h - found
+[27.678s] -- Looking for C++ include stdint.h
+[27.732s] -- Looking for C++ include stdint.h - found
+[27.732s] -- Looking for C++ include stdlib.h
+[27.786s] -- Looking for C++ include stdlib.h - found
+[27.786s] -- Looking for C++ include strings.h
+[27.838s] -- Looking for C++ include strings.h - found
+[27.838s] -- Looking for C++ include string.h
+[27.891s] -- Looking for C++ include string.h - found
+[27.891s] -- Looking for C++ include sys/stat.h
+[27.943s] -- Looking for C++ include sys/stat.h - found
+[27.943s] -- Looking for C++ include sys/types.h
+[27.998s] -- Looking for C++ include sys/types.h - found
+[27.998s] -- Looking for C++ include unistd.h
+[28.051s] -- Looking for C++ include unistd.h - found
+[28.051s] -- Looking for C++ include utime.h
+[28.104s] -- Looking for C++ include utime.h - found
+[28.104s] -- Looking for stdbool.h
+[28.148s] -- Looking for stdbool.h - found
+[28.149s] -- Looking for memset
+[28.209s] -- Looking for memset - found
+[28.209s] -- Looking for strcasecmp
+[28.268s] -- Looking for strcasecmp - found
+[28.269s] -- Looking for strchr
+[28.295s] -- Looking for strchr - not found
+[28.295s] -- Looking for strdup
+[28.355s] -- Looking for strdup - found
+[28.356s] -- Looking for strerror
+[28.416s] -- Looking for strerror - found
+[28.417s] -- Looking for strtol
+[28.476s] -- Looking for strtol - found
+[28.476s] -- Looking for strtoul
+[28.535s] -- Looking for strtoul - found
+[28.535s] -- Looking for stddef.h
+[28.580s] -- Looking for stddef.h - found
+[28.580s] -- Check size of _Bool
+[28.626s] -- Check size of _Bool - done
+[28.641s] -- Configuring done
+[28.691s] -- Generating done
+[28.700s] -- Build files have been written to: /home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor/uncrustify-0.72.0-prefix/src/uncrustify-0.72.0-build
+[28.714s] [ 75%] [34m[1mPerforming build step for 'uncrustify-0.72.0'[0m
+[28.740s] [35m[1mScanning dependencies of target generate_version_header[0m
+[28.747s] [  2%] [34m[1mGenerating version header[0m
+[28.842s] -- Version: '0.72.0-dirty'
+[28.849s] [  2%] Built target generate_version_header
+[28.857s] [  2%] [34m[1mGenerating option_enum.cpp[0m
+[28.858s] [  5%] [34m[1mGenerating option_enum.h[0m
+[28.858s] [  8%] [34m[1mGenerating punctuator_table.h[0m
+[28.858s] [  8%] [34m[1mGenerating options.cpp[0m
+[28.859s] [  8%] [34m[1mGenerating token_names.h[0m
+[28.911s] [35m[1mScanning dependencies of target uncrustify[0m
+[28.945s] [ 11%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_add.cpp.o[0m
+[28.945s] [ 11%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_eigen_comma_init.cpp.o[0m
+[28.945s] [ 11%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align.cpp.o[0m
+[28.945s] [ 11%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_asm_colon.cpp.o[0m
+[28.946s] [ 14%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_assign.cpp.o[0m
+[28.948s] [ 17%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_oc_msg_spec.cpp.o[0m
+[28.948s] [ 17%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_func_params.cpp.o[0m
+[28.948s] [ 17%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_func_proto.cpp.o[0m
+[28.948s] [ 17%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_stack.cpp.o[0m
+[28.948s] [ 20%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_init_brace.cpp.o[0m
+[28.949s] [ 20%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_oc_decl_colon.cpp.o[0m
+[28.949s] [ 20%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_tab_column.cpp.o[0m
+[28.949s] [ 20%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_left_shift.cpp.o[0m
+[28.949s] [ 22%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_same_func_call_params.cpp.o[0m
+[28.949s] [ 22%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_log_al.cpp.o[0m
+[28.949s] [ 25%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_nl_cont.cpp.o[0m
+[28.950s] [ 28%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_oc_msg_colons.cpp.o[0m
+[28.950s] [ 28%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_tools.cpp.o[0m
+[28.951s] [ 28%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_preprocessor.cpp.o[0m
+[28.957s] [ 31%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_struct_initializers.cpp.o[0m
+[29.214s] [ 34%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_trailing_comments.cpp.o[0m
+[29.220s] [ 34%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_typedefs.cpp.o[0m
+[29.244s] [ 37%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/align_var_def_brace.cpp.o[0m
+[29.249s] [ 37%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/args.cpp.o[0m
+[29.253s] [ 37%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/backup.cpp.o[0m
+[29.264s] [ 37%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/braces.cpp.o[0m
+[29.270s] [ 40%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/brace_cleanup.cpp.o[0m
+[29.272s] [ 42%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/chunk_list.cpp.o[0m
+[29.281s] [ 42%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/ChunkStack.cpp.o[0m
+[29.282s] [ 45%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/combine_fix_mark.cpp.o[0m
+[29.284s] [ 45%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/combine.cpp.o[0m
+[29.292s] [ 48%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/combine_tools.cpp.o[0m
+[29.294s] [ 48%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/combine_labels.cpp.o[0m
+[29.306s] [ 48%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/compat_posix.cpp.o[0m
+[29.336s] [ 48%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/cs_top_is_question.cpp.o[0m
+[29.336s] [ 51%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/compat_win32.cpp.o[0m
+[29.336s] [ 51%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/combine_skip.cpp.o[0m
+[29.336s] [ 54%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/detect.cpp.o[0m
+[29.336s] [ 54%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/enum_cleanup.cpp.o[0m
+[29.431s] [ 57%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/flag_braced_init_list.cpp.o[0m
+[29.441s] [ 57%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/flag_decltype.cpp.o[0m
+[29.501s] [ 57%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/flag_parens.cpp.o[0m
+[29.511s] [ 60%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/frame_list.cpp.o[0m
+[29.544s] [ 60%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/indent.cpp.o[0m
+[29.546s] [ 62%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/keywords.cpp.o[0m
+[29.575s] [ 62%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/language_tools.cpp.o[0m
+[29.576s] [ 62%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/lang_pawn.cpp.o[0m
+[29.606s] [ 65%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/logger.cpp.o[0m
+[29.613s] [ 65%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/logmask.cpp.o[0m
+[29.622s] [ 68%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/log_rules.cpp.o[0m
+[29.643s] [ 68%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/md5.cpp.o[0m
+[29.667s] [ 68%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/newlines.cpp.o[0m
+[29.671s] [ 71%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/option.cpp.o[0m
+[29.696s] [ 74%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/output.cpp.o[0m
+[29.696s] [ 74%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/options_for_QT.cpp.o[0m
+[29.721s] [ 74%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/parens.cpp.o[0m
+[29.721s] [ 74%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/ParseFrame.cpp.o[0m
+[29.732s] [ 74%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/punctuators.cpp.o[0m
+[29.736s] [ 77%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/pcf_flags.cpp.o[0m
+[29.809s] [ 80%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/quick_align_again.cpp.o[0m
+[29.833s] [ 80%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/remove_extra_returns.cpp.o[0m
+[29.834s] [ 80%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/semicolons.cpp.o[0m
+[29.880s] [ 82%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/sorting.cpp.o[0m
+[29.904s] [ 82%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/space.cpp.o[0m
+[29.940s] [ 85%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/tokenize_cleanup.cpp.o[0m
+[29.945s] [ 85%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/tokenize.cpp.o[0m
+[29.960s] [ 85%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/uncrustify.cpp.o[0m
+[29.963s] [ 85%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/uncrustify_types.cpp.o[0m
+[29.966s] [ 88%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/uncrustify_emscripten.cpp.o[0m
+[29.978s] [ 91%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/unc_text.cpp.o[0m
+[30.066s] [ 91%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/unc_tools.cpp.o[0m
+[30.113s] [ 91%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/unicode.cpp.o[0m
+[30.129s] [ 94%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/universalindentgui.cpp.o[0m
+[30.129s] [ 94%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/width.cpp.o[0m
+[30.136s] [ 94%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/option_enum.cpp.o[0m
+[30.140s] [ 97%] [32mBuilding CXX object CMakeFiles/uncrustify.dir/src/options.cpp.o[0m
+[31.706s] [100%] [32m[1mLinking CXX executable uncrustify[0m
+[31.864s] [100%] Built target uncrustify
+[31.881s] [ 87%] [34m[1mPerforming install step for 'uncrustify-0.72.0'[0m
+[31.913s] [  2%] [34m[1mGenerating version header[0m
+[31.955s] -- Version: '0.72.0-dirty'
+[31.961s] [  2%] Built target generate_version_header
+[31.985s] [100%] Built target uncrustify
+[31.999s] [36mInstall the project...[0m
+[32.004s] -- Install configuration: ""
+[32.004s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor/uncrustify_vendor_install/bin/uncrustify
+[32.018s] [100%] [34m[1mCompleted 'uncrustify-0.72.0'[0m
+[32.037s] [100%] Built target uncrustify-0.72.0
+[32.044s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor' returned '0': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor -- -j20 -l20
+[32.061s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor
+[32.066s] -- Install configuration: ""
+[32.066s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor
+[32.066s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/bin
+[32.067s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/bin/uncrustify
+[32.068s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/ament_index/resource_index/package_run_dependencies/uncrustify_vendor
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/ament_index/resource_index/parent_prefix_path/uncrustify_vendor
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.sh
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.dsv
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.sh
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.dsv
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.bash
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.sh
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.zsh
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.dsv
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/package.dsv
+[32.069s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/ament_index/resource_index/packages/uncrustify_vendor
+[32.070s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig.cmake
+[32.070s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig-version.cmake
+[32.070s] -- Installing: /home/neu/Desktop/microros_ws/firmware/dev_ws/install/uncrustify_vendor/share/uncrustify_vendor/package.xml
+[32.075s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor' returned '0': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_target_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_targets:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_interfaces:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_version:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_link_flags:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_libraries:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_include_directories:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_export_definitions:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_core:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake_test/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/neu/Desktop/microros_ws/firmware/dev_ws/build/uncrustify_vendor

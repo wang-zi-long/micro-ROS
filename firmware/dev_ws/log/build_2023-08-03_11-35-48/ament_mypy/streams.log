@@ -1,0 +1,44 @@
+[0.745s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/ament/ament_lint/ament_mypy': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/prefix_override:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_mypy build --build-base /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build install --record /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/install.log --single-version-externally-managed
+[0.908s] running egg_info
+[0.908s] creating ../../../build/ament_mypy/ament_mypy.egg-info
+[0.909s] writing ../../../build/ament_mypy/ament_mypy.egg-info/PKG-INFO
+[0.910s] writing dependency_links to ../../../build/ament_mypy/ament_mypy.egg-info/dependency_links.txt
+[0.910s] writing entry points to ../../../build/ament_mypy/ament_mypy.egg-info/entry_points.txt
+[0.910s] writing requirements to ../../../build/ament_mypy/ament_mypy.egg-info/requires.txt
+[0.910s] writing top-level names to ../../../build/ament_mypy/ament_mypy.egg-info/top_level.txt
+[0.910s] writing manifest file '../../../build/ament_mypy/ament_mypy.egg-info/SOURCES.txt'
+[0.931s] reading manifest file '../../../build/ament_mypy/ament_mypy.egg-info/SOURCES.txt'
+[0.935s] writing manifest file '../../../build/ament_mypy/ament_mypy.egg-info/SOURCES.txt'
+[0.935s] running build
+[0.935s] running build_py
+[0.936s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build
+[0.936s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib
+[0.936s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy
+[0.936s] copying ament_mypy/__init__.py -> /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy
+[0.936s] copying ament_mypy/main.py -> /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy
+[0.936s] copying ament_mypy/pytest_marker.py -> /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy
+[0.936s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy/configuration
+[0.936s] copying ament_mypy/configuration/ament_mypy.ini -> /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy/configuration
+[0.936s] running install
+[0.936s] running install_lib
+[0.936s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy
+[0.937s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy/configuration
+[0.937s] copying /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy/configuration/ament_mypy.ini -> /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy/configuration
+[0.937s] copying /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy/__init__.py -> /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy
+[0.937s] copying /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy/main.py -> /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy
+[0.937s] copying /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build/lib/ament_mypy/pytest_marker.py -> /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy
+[0.937s] byte-compiling /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy/__init__.py to __init__.cpython-38.pyc
+[0.937s] byte-compiling /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy/main.py to main.cpython-38.pyc
+[0.937s] byte-compiling /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy/pytest_marker.py to pytest_marker.cpython-38.pyc
+[0.937s] running install_data
+[0.937s] copying package.xml -> /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/share/ament_mypy
+[0.937s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/share/ament_index
+[0.937s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/share/ament_index/resource_index
+[0.937s] creating /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/share/ament_index/resource_index/packages
+[0.937s] copying resource/ament_mypy -> /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/share/ament_index/resource_index/packages
+[0.938s] running install_egg_info
+[0.938s] Copying ../../../build/ament_mypy/ament_mypy.egg-info to /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages/ament_mypy-0.12.7-py3.8.egg-info
+[0.938s] running install_scripts
+[0.952s] Installing ament_mypy script to /home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/bin
+[0.952s] writing list of installed files to '/home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/install.log'
+[0.995s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/dev_ws/ament/ament_lint/ament_mypy' returned '0': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/prefix_override:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_mypy build --build-base /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/build install --record /home/neu/Desktop/microros_ws/firmware/dev_ws/build/ament_mypy/install.log --single-version-externally-managed

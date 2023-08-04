@@ -1,0 +1,2 @@
+/home/neu/Desktop/microros_ws/firmware/toolchain/bin/arm-none-eabi-ar qc librcl_logging_interface.a  CMakeFiles/rcl_logging_interface.dir/src/logging_dir.c.obj
+/home/neu/Desktop/microros_ws/firmware/toolchain/bin/arm-none-eabi-ranlib librcl_logging_interface.a

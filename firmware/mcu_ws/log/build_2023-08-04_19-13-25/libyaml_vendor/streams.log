@@ -1,0 +1,242 @@
+[0.690s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_uncrustify:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/domain_coordinator:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_xmllint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pyflakes:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pycodestyle:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pep257:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pclint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_copyright:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_index_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cpplint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cppcheck:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_tidy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake /home/neu/Desktop/microros_ws/firmware/mcu_ws/ros2/libyaml_vendor --no-warn-unused-cli -DCMAKE_POSITION_INDEPENDENT_CODE=OFF -DTHIRDPARTY=ON -DBUILD_SHARED_LIBS=OFF -DBUILD_TESTING=OFF -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/arm_toolchain.cmake -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_INSTALL_PREFIX=/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor
+[0.725s] Not searching for unused variables given on the command line.
+[0.756s] -- The C compiler identification is GNU 8.3.1
+[0.859s] -- The CXX compiler identification is GNU 8.3.1
+[0.874s] -- Check for working C compiler: /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc
+[0.949s] -- Check for working C compiler: /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -- works
+[0.949s] -- Detecting C compiler ABI info
+[1.017s] -- Detecting C compiler ABI info - done
+[1.030s] -- Detecting C compile features
+[1.030s] -- Detecting C compile features - done
+[1.030s] -- Check for working CXX compiler: /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-g++
+[1.092s] -- Check for working CXX compiler: /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-g++ -- works
+[1.093s] -- Detecting CXX compiler ABI info
+[1.152s] -- Detecting CXX compiler ABI info - done
+[1.158s] -- Detecting CXX compile features
+[1.158s] -- Detecting CXX compile features - done
+[1.159s] -- Found ament_cmake: 1.3.5 (/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cmake/share/ament_cmake/cmake)
+[1.440s] -- Found Python3: /usr/bin/python3.8 (found version "3.8.10") found components: Interpreter 
+[1.622s] -- Configuring done
+[1.624s] -- Generating done
+[1.629s] -- Build files have been written to: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor
+[1.686s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_uncrustify:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/domain_coordinator:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_xmllint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pyflakes:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pycodestyle:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pep257:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pclint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_copyright:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_index_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cpplint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cppcheck:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_tidy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake /home/neu/Desktop/microros_ws/firmware/mcu_ws/ros2/libyaml_vendor --no-warn-unused-cli -DCMAKE_POSITION_INDEPENDENT_CODE=OFF -DTHIRDPARTY=ON -DBUILD_SHARED_LIBS=OFF -DBUILD_TESTING=OFF -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/arm_toolchain.cmake -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_INSTALL_PREFIX=/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor
+[1.687s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_uncrustify:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/domain_coordinator:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_xmllint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pyflakes:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pycodestyle:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pep257:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pclint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_copyright:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_index_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cpplint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cppcheck:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_tidy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --build /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor -- -j20 -l20
+[1.697s] make[1]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[1.697s] /usr/bin/cmake -S/home/neu/Desktop/microros_ws/firmware/mcu_ws/ros2/libyaml_vendor -B/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor --check-build-system CMakeFiles/Makefile.cmake 0
+[1.703s] /usr/bin/cmake -E cmake_progress_start /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/progress.marks
+[1.708s] /usr/bin/make -f CMakeFiles/Makefile2 all
+[1.709s] make[2]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[1.709s] /usr/bin/make -f CMakeFiles/libyaml-0.2.5.dir/build.make CMakeFiles/libyaml-0.2.5.dir/depend
+[1.710s] make[3]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[1.710s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/neu/Desktop/microros_ws/firmware/mcu_ws/ros2/libyaml_vendor /home/neu/Desktop/microros_ws/firmware/mcu_ws/ros2/libyaml_vendor /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5.dir/DependInfo.cmake --color=
+[1.715s] Dependee "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5.dir/DependInfo.cmake" is newer than depender "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5.dir/depend.internal".
+[1.715s] Dependee "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/CMakeDirectoryInformation.cmake" is newer than depender "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5.dir/depend.internal".
+[1.715s] [35m[1mScanning dependencies of target libyaml-0.2.5[0m
+[1.715s] make[3]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[1.716s] /usr/bin/make -f CMakeFiles/libyaml-0.2.5.dir/build.make CMakeFiles/libyaml-0.2.5.dir/build
+[1.716s] make[3]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[1.722s] [ 12%] [34m[1mCreating directories for 'libyaml-0.2.5'[0m
+[1.722s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5
+[1.727s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build
+[1.732s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix
+[1.737s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/tmp
+[1.742s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp
+[1.747s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src
+[1.752s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp
+[1.758s] /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-mkdir
+[1.768s] [ 25%] [34m[1mPerforming download step (git clone) for 'libyaml-0.2.5'[0m
+[1.769s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src && /usr/bin/cmake -P /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/tmp/libyaml-0.2.5-gitclone.cmake
+[1.782s] Cloning into 'libyaml-0.2.5'...
+[6.815s] HEAD is now at 2c891fc Changes for v0.2.5 release
+[6.856s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src && /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-download
+[6.872s] [ 50%] [34m[1mPerforming patch step for 'libyaml-0.2.5'[0m
+[6.873s] [ 50%] [34m[1mNo update step for 'libyaml-0.2.5'[0m
+[6.873s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 && /usr/bin/cmake -E chdir /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 git apply -p1 --ignore-space-change --whitespace=nowarn /home/neu/Desktop/microros_ws/firmware/mcu_ws/ros2/libyaml_vendor/0001-Install-yaml.h-to-INSTALL_INCLUDE_DIR.patch
+[6.873s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 && /usr/bin/cmake -E echo_append
+[6.882s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 && /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-update
+[6.885s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 && /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-patch
+[6.897s] [ 62%] [34m[1mPerforming configure step for 'libyaml-0.2.5'[0m
+[6.898s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/cmake -DCMAKE_INSTALL_PREFIX=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install -DINSTALL_INCLUDE_DIR:STRING=include/libyaml_vendor -DCMAKE_BUILD_TYPE=Debug -DBUILD_SHARED_LIBS=ON -DBUILD_TESTING=OFF "-DCMAKE_C_FLAGS=-std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0" -DCMAKE_TOOLCHAIN_FILE=/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/arm_toolchain.cmake "-GUnix Makefiles" /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5
+[6.906s] Re-run cmake no build system arguments
+[6.982s] -- The C compiler identification is GNU 8.3.1
+[6.993s] -- Check for working C compiler: /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc
+[7.051s] -- Check for working C compiler: /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -- works
+[7.052s] -- Detecting C compiler ABI info
+[7.108s] -- Detecting C compiler ABI info - done
+[7.117s] -- Detecting C compile features
+[7.117s] -- Detecting C compile features - done
+[7.117s] CMake Warning (dev) at CMakeLists.txt:56 (add_library):
+[7.117s]   ADD_LIBRARY called with SHARED option but the target platform does not
+[7.117s]   support dynamic linking.  Building a STATIC library instead.  This may lead
+[7.117s]   to problems.
+[7.117s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[7.118s] 
+[7.119s] -- Configuring done
+[7.121s] -- Generating done
+[7.121s] -- Build files have been written to: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build
+[7.122s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-configure
+[7.135s] [ 75%] [34m[1mPerforming build step for 'libyaml-0.2.5'[0m
+[7.136s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/make
+[7.137s] make[4]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.137s] /usr/bin/cmake -S/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 -B/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build --check-build-system CMakeFiles/Makefile.cmake 0
+[7.142s] /usr/bin/cmake -E cmake_progress_start /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/progress.marks
+[7.153s] /usr/bin/make -f CMakeFiles/Makefile2 all
+[7.153s] make[5]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.153s] /usr/bin/make -f CMakeFiles/yaml.dir/build.make CMakeFiles/yaml.dir/depend
+[7.154s] make[6]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.155s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/yaml.dir/DependInfo.cmake --color=
+[7.156s] Dependee "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/yaml.dir/DependInfo.cmake" is newer than depender "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/yaml.dir/depend.internal".
+[7.156s] Dependee "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/CMakeDirectoryInformation.cmake" is newer than depender "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/yaml.dir/depend.internal".
+[7.156s] [35m[1mScanning dependencies of target yaml[0m
+[7.158s] make[6]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.158s] /usr/bin/make -f CMakeFiles/yaml.dir/build.make CMakeFiles/yaml.dir/build
+[7.159s] make[6]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.167s] [ 11%] [32mBuilding C object CMakeFiles/yaml.dir/src/dumper.c.obj[0m
+[7.167s] [ 22%] [32mBuilding C object CMakeFiles/yaml.dir/src/reader.c.obj[0m
+[7.167s] [ 33%] [32mBuilding C object CMakeFiles/yaml.dir/src/parser.c.obj[0m
+[7.167s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/dumper.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/dumper.c
+[7.167s] [ 44%] [32mBuilding C object CMakeFiles/yaml.dir/src/loader.c.obj[0m
+[7.167s] [ 55%] [32mBuilding C object CMakeFiles/yaml.dir/src/emitter.c.obj[0m
+[7.167s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/parser.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/parser.c
+[7.168s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/reader.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/reader.c
+[7.168s] [ 66%] [32mBuilding C object CMakeFiles/yaml.dir/src/scanner.c.obj[0m
+[7.168s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/loader.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/loader.c
+[7.168s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/emitter.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c
+[7.168s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/scanner.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/scanner.c
+[7.168s] [ 77%] [32mBuilding C object CMakeFiles/yaml.dir/src/writer.c.obj[0m
+[7.169s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/writer.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/writer.c
+[7.174s] [ 88%] [32mBuilding C object CMakeFiles/yaml.dir/src/api.c.obj[0m
+[7.175s] /home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc -DHAVE_CONFIG_H -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/include -I/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/include  -std=c11 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -DUSE_HAL_DRIVER -DSTM32F446xx -D_TIMEVAL_DEFINED -O0 -Wall -fdata-sections -ffunction-sections  -DCLOCK_MONOTONIC=0 -g   -o CMakeFiles/yaml.dir/src/api.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/api.c
+[7.208s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/api.c:[m[K In function '[01m[Kyaml_strdup[m[K':
+[7.208s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/api.c:66:27:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function '[01m[Kstrdup[m[K'; did you mean '[01m[Kstrcmp[m[K'? [[01;35m[K-Wimplicit-function-declaration[m[K]
+[7.208s]      return (yaml_char_t *)[01;35m[Kstrdup[m[K((char *)str);
+[7.209s]                            [01;35m[K^~~~~~[m[K
+[7.209s]                            [32m[Kstrcmp[m[K
+[7.240s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:[m[K In function '[01m[Kyaml_emitter_write_plain_scalar[m[K':
+[7.240s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:28:6:[m[K [01;35m[Kwarning: [m[Kvalue computed is not used [[01;35m[K-Wunused-value[m[K]
+[7.240s]       [01;35m[K&&[m[K ((emitter->line_break == YAML_CR_BREAK ?                                \
+[7.240s]       [01;35m[K^~[m[K
+[7.240s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:56:11:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KPUT_BREAK[m[K'
+[7.241s]           ([01;36m[KPUT_BREAK[m[K(emitter),                                                   \
+[7.241s]            [01;36m[K^~~~~~~~~[m[K
+[7.241s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:1962:18:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KWRITE_BREAK[m[K'
+[7.241s]              if (![01;36m[KWRITE_BREAK[m[K(emitter, string)) return 0;
+[7.241s]                   [01;36m[K^~~~~~~~~~~[m[K
+[7.243s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:[m[K In function '[01m[Kyaml_emitter_write_single_quoted_scalar[m[K':
+[7.243s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:28:6:[m[K [01;35m[Kwarning: [m[Kvalue computed is not used [[01;35m[K-Wunused-value[m[K]
+[7.243s]       [01;35m[K&&[m[K ((emitter->line_break == YAML_CR_BREAK ?                                \
+[7.243s]       [01;35m[K^~[m[K
+[7.243s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:56:11:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KPUT_BREAK[m[K'
+[7.243s]           ([01;36m[KPUT_BREAK[m[K(emitter),                                                   \
+[7.244s]            [01;36m[K^~~~~~~~~[m[K
+[7.244s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:2019:18:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KWRITE_BREAK[m[K'
+[7.244s]              if (![01;36m[KWRITE_BREAK[m[K(emitter, string)) return 0;
+[7.244s]                   [01;36m[K^~~~~~~~~~~[m[K
+[7.250s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:[m[K In function '[01m[Kyaml_emitter_write_literal_scalar[m[K':
+[7.250s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:28:6:[m[K [01;35m[Kwarning: [m[Kvalue computed is not used [[01;35m[K-Wunused-value[m[K]
+[7.250s]       [01;35m[K&&[m[K ((emitter->line_break == YAML_CR_BREAK ?                                \
+[7.250s]       [01;35m[K^~[m[K
+[7.250s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:56:11:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KPUT_BREAK[m[K'
+[7.251s]           ([01;36m[KPUT_BREAK[m[K(emitter),                                                   \
+[7.251s]            [01;36m[K^~~~~~~~~[m[K
+[7.251s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:2285:18:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KWRITE_BREAK[m[K'
+[7.257s]              if (![01;36m[KWRITE_BREAK[m[K(emitter, string)) return 0;
+[7.257s]                   [01;36m[K^~~~~~~~~~~[m[K
+[7.258s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:[m[K In function '[01m[Kyaml_emitter_write_folded_scalar[m[K':
+[7.258s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:28:6:[m[K [01;35m[Kwarning: [m[Kvalue computed is not used [[01;35m[K-Wunused-value[m[K]
+[7.258s]       [01;35m[K&&[m[K ((emitter->line_break == YAML_CR_BREAK ?                                \
+[7.258s]       [01;35m[K^~[m[K
+[7.258s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:56:11:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KPUT_BREAK[m[K'
+[7.258s]           ([01;36m[KPUT_BREAK[m[K(emitter),                                                   \
+[7.258s]            [01;36m[K^~~~~~~~~[m[K
+[7.258s] [01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5/src/emitter.c:2334:18:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KWRITE_BREAK[m[K'
+[7.258s]              if (![01;36m[KWRITE_BREAK[m[K(emitter, string)) return 0;
+[7.258s]                   [01;36m[K^~~~~~~~~~~[m[K
+[7.751s] [100%] [32m[1mLinking C static library libyaml.a[0m
+[7.751s] /usr/bin/cmake -P CMakeFiles/yaml.dir/cmake_clean_target.cmake
+[7.758s] /usr/bin/cmake -E cmake_link_script CMakeFiles/yaml.dir/link.txt --verbose=1
+[7.761s] /home/neu/Desktop/microros_ws/firmware/toolchain/bin/arm-none-eabi-ar qc libyaml.a  CMakeFiles/yaml.dir/src/api.c.obj CMakeFiles/yaml.dir/src/dumper.c.obj CMakeFiles/yaml.dir/src/emitter.c.obj CMakeFiles/yaml.dir/src/loader.c.obj CMakeFiles/yaml.dir/src/parser.c.obj CMakeFiles/yaml.dir/src/reader.c.obj CMakeFiles/yaml.dir/src/scanner.c.obj CMakeFiles/yaml.dir/src/writer.c.obj
+[7.762s] /home/neu/Desktop/microros_ws/firmware/toolchain/bin/arm-none-eabi-ranlib libyaml.a
+[7.763s] make[6]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.770s] [100%] Built target yaml
+[7.770s] make[5]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.771s] /usr/bin/cmake -E cmake_progress_start /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles 0
+[7.778s] make[4]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.778s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-build
+[7.789s] [ 87%] [34m[1mPerforming install step for 'libyaml-0.2.5'[0m
+[7.790s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/make install
+[7.791s] make[4]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.791s] /usr/bin/cmake -S/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 -B/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build --check-build-system CMakeFiles/Makefile.cmake 0
+[7.800s] /usr/bin/cmake -E cmake_progress_start /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/progress.marks
+[7.808s] /usr/bin/make -f CMakeFiles/Makefile2 all
+[7.809s] make[5]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.809s] /usr/bin/make -f CMakeFiles/yaml.dir/build.make CMakeFiles/yaml.dir/depend
+[7.810s] make[6]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.810s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5 /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles/yaml.dir/DependInfo.cmake --color=
+[7.815s] make[6]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.815s] /usr/bin/make -f CMakeFiles/yaml.dir/build.make CMakeFiles/yaml.dir/build
+[7.816s] make[6]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.816s] make[6]: Nothing to be done for 'CMakeFiles/yaml.dir/build'.
+[7.817s] make[6]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.821s] [100%] Built target yaml
+[7.822s] make[5]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.822s] /usr/bin/cmake -E cmake_progress_start /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build/CMakeFiles 0
+[7.827s] /usr/bin/make -f CMakeFiles/Makefile2 preinstall
+[7.828s] make[5]: Entering directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.828s] make[5]: Nothing to be done for 'preinstall'.
+[7.828s] make[5]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.833s] [36mInstall the project...[0m
+[7.834s] /usr/bin/cmake -P cmake_install.cmake
+[7.838s] -- Install configuration: "Debug"
+[7.838s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/include/libyaml_vendor/yaml.h
+[7.839s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/lib/libyaml.a
+[7.839s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlConfig.cmake
+[7.839s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlTargets.cmake
+[7.839s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlTargets-debug.cmake
+[7.839s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlConfigVersion.cmake
+[7.840s] make[4]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build'
+[7.840s] cd /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-build && /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-install
+[7.854s] [100%] [34m[1mCompleted 'libyaml-0.2.5'[0m
+[7.854s] /usr/bin/cmake -E make_directory /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles
+[7.859s] /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5-complete
+[7.864s] /usr/bin/cmake -E touch /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-done
+[7.869s] make[3]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[7.874s] [100%] Built target libyaml-0.2.5
+[7.874s] make[2]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[7.874s] /usr/bin/cmake -E cmake_progress_start /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles 0
+[7.879s] make[1]: Leaving directory '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor'
+[7.883s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_uncrustify:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/domain_coordinator:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_xmllint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pyflakes:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pycodestyle:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pep257:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pclint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_copyright:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_index_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cpplint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cppcheck:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_tidy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --build /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor -- -j20 -l20
+[7.903s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_uncrustify:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/domain_coordinator:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_xmllint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pyflakes:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pycodestyle:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pep257:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pclint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_copyright:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_index_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cpplint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cppcheck:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_tidy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --install /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor
+[7.907s] -- Install configuration: "Debug"
+[7.907s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor
+[7.907s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/lib
+[7.907s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/lib/libyaml.a
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/include
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/include/libyaml_vendor
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/include/libyaml_vendor/yaml.h
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/cmake
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/cmake/yamlTargets-debug.cmake
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/cmake/yamlConfigVersion.cmake
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/cmake/yamlTargets.cmake
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/cmake/yamlConfig.cmake
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/environment/library_path.sh
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/environment/library_path.dsv
+[7.908s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/ament_index/resource_index/package_run_dependencies/libyaml_vendor
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/ament_index/resource_index/parent_prefix_path/libyaml_vendor
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/environment/ament_prefix_path.sh
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/environment/ament_prefix_path.dsv
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/environment/path.sh
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/environment/path.dsv
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/local_setup.bash
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/local_setup.sh
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/local_setup.zsh
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/local_setup.dsv
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/package.dsv
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/ament_index/resource_index/packages/libyaml_vendor
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/cmake/libyaml_vendor-extras.cmake
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/cmake/ament_cmake_export_libraries-extras.cmake
+[7.909s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.910s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/cmake/libyaml_vendorConfig.cmake
+[7.910s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/cmake/libyaml_vendorConfig-version.cmake
+[7.910s] -- Installing: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/libyaml_vendor/share/libyaml_vendor/package.xml
+[7.915s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_uncrustify:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/domain_coordinator:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_xmllint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pyflakes:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pycodestyle:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pep257:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_pclint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_package:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_mypy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint_cmake:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_flake8:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_copyright:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_lint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_index_python:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cpplint:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_cppcheck:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_tidy:/home/neu/Desktop/microros_ws/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --install /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/libyaml_vendor
