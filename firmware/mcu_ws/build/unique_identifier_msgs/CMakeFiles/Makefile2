@@ -111,9 +111,9 @@ CMakeFiles/unique_identifier_msgs_uninstall.dir/clean:
 # Target rules for target CMakeFiles/unique_identifier_msgs.dir
 
 # All Build rule for target.
-CMakeFiles/unique_identifier_msgs.dir/all: CMakeFiles/unique_identifier_msgs__rosidl_typesupport_introspection_c.dir/all
-CMakeFiles/unique_identifier_msgs.dir/all: CMakeFiles/unique_identifier_msgs__rosidl_typesupport_c.dir/all
 CMakeFiles/unique_identifier_msgs.dir/all: CMakeFiles/unique_identifier_msgs__rosidl_typesupport_microxrcedds_c.dir/all
+CMakeFiles/unique_identifier_msgs.dir/all: CMakeFiles/unique_identifier_msgs__rosidl_typesupport_c.dir/all
+CMakeFiles/unique_identifier_msgs.dir/all: CMakeFiles/unique_identifier_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/unique_identifier_msgs.dir/all: CMakeFiles/unique_identifier_msgs__rosidl_generator_c.dir/all
 	$(MAKE) -f CMakeFiles/unique_identifier_msgs.dir/build.make CMakeFiles/unique_identifier_msgs.dir/depend
 	$(MAKE) -f CMakeFiles/unique_identifier_msgs.dir/build.make CMakeFiles/unique_identifier_msgs.dir/build

@@ -1,0 +1,351 @@
++++++++++++++++++29 28
+==========5359
+recv_message time : 7030
+read_message time : 246
+take_data    time : 174
+Ping received seq : 0  seq length : 1.
+
++++++++++++++++++32 28
+==========5608
+recv_message time : 7269
+read_message time : 246
+take_data    time : 174
+Ping received seq : 1  seq length : 1.
+
++++++++++++++++++30 28
+==========5448
+recv_message time : 7110
+read_message time : 246
+take_data    time : 174
+Ping received seq : 2  seq length : 1.
+
++++++++++++++++++30 28
+==========5441
+recv_message time : 7103
+read_message time : 246
+take_data    time : 174
+Ping received seq : 3  seq length : 1.
+
++++++++++++++++++28 28
+==========5273
+recv_message time : 6941
+read_message time : 246
+take_data    time : 174
+Ping received seq : 4  seq length : 1.
+
++++++++++++++++++29 28
+==========5357
+recv_message time : 7017
+read_message time : 246
+take_data    time : 174
+Ping received seq : 5  seq length : 1.
+
++++++++++++++++++28 28
+==========5272
+recv_message time : 6935
+read_message time : 246
+take_data    time : 174
+Ping received seq : 6  seq length : 1.
+
++++++++++++++++++30 28
+==========5457
+recv_message time : 7117
+read_message time : 246
+take_data    time : 174
+Ping received seq : 7  seq length : 1.
+
++++++++++++++++++29 28
+==========5359
+recv_message time : 7021
+read_message time : 246
+take_data    time : 174
+Ping received seq : 8  seq length : 1.
+
++++++++++++++++++28 28
+==========5275
+recv_message time : 6935
+read_message time : 246
+take_data    time : 174
+Ping received seq : 9  seq length : 1.
+
++++++++++++++++++30 28
+==========5447
+recv_message time : 7107
+read_message time : 246
+take_data    time : 175
+Ping received seq : 10  seq length : 2.
+
++++++++++++++++++29 28
+==========5358
+recv_message time : 7018
+read_message time : 246
+take_data    time : 177
+Ping received seq : 11  seq length : 2.
+
++++++++++++++++++30 28
+==========5445
+recv_message time : 7105
+read_message time : 246
+take_data    time : 175
+Ping received seq : 12  seq length : 2.
+
++++++++++++++++++30 28
+==========5446
+recv_message time : 7116
+read_message time : 246
+take_data    time : 175
+Ping received seq : 13  seq length : 2.
+
++++++++++++++++++28 28
+==========5271
+recv_message time : 6939
+read_message time : 246
+take_data    time : 177
+Ping received seq : 14  seq length : 2.
+
++++++++++++++++++29 28
+==========5368
+recv_message time : 7028
+read_message time : 248
+take_data    time : 179
+Ping received seq : 15  seq length : 2.
+
++++++++++++++++++30 28
+==========5446
+recv_message time : 7108
+read_message time : 247
+take_data    time : 178
+Ping received seq : 16  seq length : 2.
+
++++++++++++++++++31 28
+==========5525
+recv_message time : 7191
+read_message time : 246
+take_data    time : 175
+Ping received seq : 17  seq length : 2.
+
++++++++++++++++++28 28
+==========5285
+recv_message time : 6948
+read_message time : 246
+take_data    time : 175
+Ping received seq : 18  seq length : 2.
+
++++++++++++++++++29 28
+==========5366
+recv_message time : 7028
+read_message time : 246
+take_data    time : 175
+Ping received seq : 19  seq length : 2.
+
++++++++++++++++++31 28
+==========5529
+recv_message time : 7191
+read_message time : 246
+take_data    time : 175
+Ping received seq : 20  seq length : 2.
+
++++++++++++++++++29 28
+==========5364
+recv_message time : 7027
+read_message time : 246
+take_data    time : 175
+Ping received seq : 21  seq length : 2.
+
++++++++++++++++++29 28
+==========5366
+recv_message time : 7028
+read_message time : 246
+take_data    time : 175
+Ping received seq : 22  seq length : 2.
+
++++++++++++++++++30 28
+==========5456
+recv_message time : 7118
+read_message time : 246
+take_data    time : 175
+Ping received seq : 23  seq length : 2.
+
++++++++++++++++++29 28
+==========5359
+recv_message time : 7023
+read_message time : 246
+take_data    time : 175
+Ping received seq : 24  seq length : 2.
+
++++++++++++++++++30 28
+==========5442
+recv_message time : 7104
+read_message time : 246
+take_data    time : 175
+Ping received seq : 25  seq length : 2.
+
++++++++++++++++++30 28
+==========5449
+recv_message time : 7111
+read_message time : 246
+take_data    time : 175
+Ping received seq : 26  seq length : 2.
+
++++++++++++++++++32 28
+==========5604
+recv_message time : 7277
+read_message time : 246
+take_data    time : 175
+Ping received seq : 27  seq length : 2.
+
++++++++++++++++++29 28
+==========5359
+recv_message time : 7021
+read_message time : 246
+take_data    time : 175
+Ping received seq : 28  seq length : 2.
+
++++++++++++++++++28 28
+==========5271
+recv_message time : 6933
+read_message time : 246
+take_data    time : 175
+Ping received seq : 29  seq length : 2.
+
++++++++++++++++++28 28
+==========5279
+recv_message time : 6941
+read_message time : 246
+take_data    time : 175
+Ping received seq : 30  seq length : 2.
+
++++++++++++++++++31 28
+==========5524
+recv_message time : 7186
+read_message time : 246
+take_data    time : 175
+Ping received seq : 31  seq length : 2.
+
++++++++++++++++++29 28
+==========5367
+recv_message time : 7029
+read_message time : 246
+take_data    time : 175
+Ping received seq : 32  seq length : 2.
+
++++++++++++++++++29 28
+==========5353
+recv_message time : 7015
+read_message time : 246
+take_data    time : 175
+Ping received seq : 33  seq length : 2.
+
++++++++++++++++++29 28
+==========5373
+recv_message time : 7042
+read_message time : 246
+take_data    time : 175
+Ping received seq : 34  seq length : 2.
+
++++++++++++++++++28 28
+==========5279
+recv_message time : 6938
+read_message time : 246
+take_data    time : 175
+Ping received seq : 35  seq length : 2.
+
++++++++++++++++++30 28
+==========5442
+recv_message time : 7104
+read_message time : 246
+take_data    time : 175
+Ping received seq : 36  seq length : 2.
+
++++++++++++++++++30 28
+==========5441
+recv_message time : 7103
+read_message time : 246
+take_data    time : 175
+Ping received seq : 37  seq length : 2.
+
++++++++++++++++++29 28
+==========5371
+recv_message time : 7031
+read_message time : 246
+take_data    time : 175
+Ping received seq : 38  seq length : 2.
+
++++++++++++++++++30 28
+==========5436
+recv_message time : 7096
+read_message time : 246
+take_data    time : 175
+Ping received seq : 39  seq length : 2.
+
++++++++++++++++++27 28
+==========5203
+recv_message time : 6863
+read_message time : 246
+take_data    time : 177
+Ping received seq : 40  seq length : 2.
+
++++++++++++++++++29 28
+==========5368
+recv_message time : 7029
+read_message time : 248
+take_data    time : 178
+Ping received seq : 41  seq length : 2.
+
++++++++++++++++++30 28
+==========5440
+recv_message time : 7100
+read_message time : 248
+take_data    time : 179
+Ping received seq : 42  seq length : 2.
+
++++++++++++++++++30 28
+==========5441
+recv_message time : 7101
+read_message time : 247
+take_data    time : 178
+Ping received seq : 43  seq length : 2.
+
++++++++++++++++++28 28
+==========5277
+recv_message time : 6939
+read_message time : 248
+take_data    time : 175
+Ping received seq : 44  seq length : 2.
+
++++++++++++++++++31 28
+==========5536
+recv_message time : 7199
+read_message time : 248
+take_data    time : 179
+Ping received seq : 45  seq length : 2.
+
++++++++++++++++++32 28
+==========5621
+recv_message time : 7291
+read_message time : 248
+take_data    time : 175
+Ping received seq : 46  seq length : 2.
+
++++++++++++++++++30 28
+==========5447
+recv_message time : 7116
+read_message time : 249
+take_data    time : 175
+Ping received seq : 47  seq length : 2.
+
++++++++++++++++++28 28
+==========5272
+recv_message time : 6935
+read_message time : 246
+take_data    time : 175
+Ping received seq : 48  seq length : 2.
+
++++++++++++++++++28 28
+==========5275
+recv_message time : 6937
+read_message time : 246
+take_data    time : 175
+Ping received seq : 49  seq length : 2.
+
+

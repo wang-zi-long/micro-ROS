@@ -220,8 +220,8 @@ CMakeFiles/statistics_msgs__rosidl_typesupport_c.dir/clean:
 
 # All Build rule for target.
 CMakeFiles/statistics_msgs.dir/all: CMakeFiles/statistics_msgs__rosidl_typesupport_microxrcedds_c.dir/all
-CMakeFiles/statistics_msgs.dir/all: CMakeFiles/statistics_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/statistics_msgs.dir/all: CMakeFiles/statistics_msgs__rosidl_typesupport_c.dir/all
+CMakeFiles/statistics_msgs.dir/all: CMakeFiles/statistics_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/statistics_msgs.dir/all: CMakeFiles/statistics_msgs__rosidl_generator_c.dir/all
 	$(MAKE) -f CMakeFiles/statistics_msgs.dir/build.make CMakeFiles/statistics_msgs.dir/depend
 	$(MAKE) -f CMakeFiles/statistics_msgs.dir/build.make CMakeFiles/statistics_msgs.dir/build

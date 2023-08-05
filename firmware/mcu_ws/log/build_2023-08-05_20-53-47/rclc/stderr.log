@@ -1,0 +1,27 @@
+CMake Warning at /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rcutils/share/rcutils/cmake/ament_cmake_export_libraries-extras.cmake:116 (message):
+  Package 'rcutils' exports library 'dl' which couldn't be found
+Call Stack (most recent call first):
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rcutils/share/rcutils/cmake/rcutilsConfig.cmake:41 (include)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rosidl_runtime_c/share/rosidl_runtime_c/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rosidl_runtime_c/share/rosidl_runtime_c/cmake/rosidl_runtime_cConfig.cmake:41 (include)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfacesConfig.cmake:41 (include)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rcl_interfaces/share/rcl_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rcl_interfaces/share/rcl_interfaces/cmake/rcl_interfacesConfig.cmake:41 (include)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rcl/share/rcl/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+  /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rcl/share/rcl/cmake/rclConfig.cmake:41 (include)
+  CMakeLists.txt:31 (find_package)
+
+
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/executor_handle.c:[m[K In function '[01m[Krclc_executor_handle_print[m[K':
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/executor_handle.c:84:10:[m[K [01;35m[Kwarning: [m[Kvariable '[01m[KtypeName[m[K' set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+   char * [01;35m[KtypeName[m[K;
+          [01;35m[K^~~~~~~~[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/executor.c:[m[K In function '[01m[K_rclc_take_new_data[m[K':
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/executor.c:1107:26:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function '[01m[KxTaskGetTickCount[m[K' [[01;35m[K-Wimplicit-function-declaration[m[K]
+         uint32_t start = [01;35m[KxTaskGetTickCount[m[K();
+                          [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/executor.c:1127:38:[m[K [01;35m[Kwarning: [m[Kformat '[01m[K%d[m[K' expects argument of type '[01m[Kint[m[K', but argument 2 has type '[01m[Kuint32_t[m[K' {aka '[01m[Klong unsigned int[m[K'} [[01;35m[K-Wformat=[m[K]
+         printf("take_data    time : [01;35m[K%d[m[K\n", [32m[K(end - start)[m[K);
+                                     [01;35m[K~^[m[K     [32m[K~~~~~~~~~~~~~[m[K
+                                     [32m[K%ld[m[K

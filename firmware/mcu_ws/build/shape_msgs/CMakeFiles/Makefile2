@@ -165,9 +165,9 @@ CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_c.dir/clean:
 # Target rules for target CMakeFiles/shape_msgs.dir
 
 # All Build rule for target.
+CMakeFiles/shape_msgs.dir/all: CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/shape_msgs.dir/all: CMakeFiles/shape_msgs__rosidl_generator_c.dir/all
 CMakeFiles/shape_msgs.dir/all: CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/all
-CMakeFiles/shape_msgs.dir/all: CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/shape_msgs.dir/all: CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_c.dir/all
 	$(MAKE) -f CMakeFiles/shape_msgs.dir/build.make CMakeFiles/shape_msgs.dir/depend
 	$(MAKE) -f CMakeFiles/shape_msgs.dir/build.make CMakeFiles/shape_msgs.dir/build
