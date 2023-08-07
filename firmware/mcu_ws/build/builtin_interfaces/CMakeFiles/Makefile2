@@ -111,9 +111,9 @@ CMakeFiles/builtin_interfaces_uninstall.dir/clean:
 # Target rules for target CMakeFiles/builtin_interfaces.dir
 
 # All Build rule for target.
-CMakeFiles/builtin_interfaces.dir/all: CMakeFiles/builtin_interfaces__rosidl_generator_c.dir/all
-CMakeFiles/builtin_interfaces.dir/all: CMakeFiles/builtin_interfaces__rosidl_typesupport_c.dir/all
 CMakeFiles/builtin_interfaces.dir/all: CMakeFiles/builtin_interfaces__rosidl_typesupport_introspection_c.dir/all
+CMakeFiles/builtin_interfaces.dir/all: CMakeFiles/builtin_interfaces__rosidl_typesupport_c.dir/all
+CMakeFiles/builtin_interfaces.dir/all: CMakeFiles/builtin_interfaces__rosidl_generator_c.dir/all
 CMakeFiles/builtin_interfaces.dir/all: CMakeFiles/builtin_interfaces__rosidl_typesupport_microxrcedds_c.dir/all
 	$(MAKE) -f CMakeFiles/builtin_interfaces.dir/build.make CMakeFiles/builtin_interfaces.dir/depend
 	$(MAKE) -f CMakeFiles/builtin_interfaces.dir/build.make CMakeFiles/builtin_interfaces.dir/build

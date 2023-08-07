@@ -76,6 +76,21 @@
         "typeinfo": "cpp",
         "valarray": "cpp",
         "variant": "cpp",
-        "bit": "cpp"
+        "bit": "cpp",
+        "main.h": "c",
+        "microcdr.h": "c",
+        "shared_memory_internal.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "multithread.h": "c",
+        "output_reliable_stream_internal.h": "c",
+        "cmsis_os.h": "c",
+        "submessage_internal.h": "c",
+        "seq_num_internal.h": "c",
+        "time_internal.h": "c",
+        "xrce_subheader_internal.h": "c",
+        "session.h": "c",
+        "stream_storage_internal.h": "c",
+        "session_internal.h": "c",
+        "utils.h": "c"
     }
 }
