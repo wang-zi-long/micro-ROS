@@ -78,7 +78,15 @@ rclc_subscription_init_best_effort(
   const rosidl_message_type_support_t * type_support,
   const char * topic_name);
 
-
+RCLC_PUBLIC
+rcl_ret_t
+rclc_subscription_init_best_effort_new(
+  rcl_subscription_t * subscription,
+  rcl_node_t * node,
+  int priority,
+  const rosidl_message_type_support_t * type_support,
+  const char * topic_name);
+  
 /**
  *  Creates an rcl subscription with defined QoS
  *
@@ -103,6 +111,16 @@ rcl_ret_t
 rclc_subscription_init(
   rcl_subscription_t * subscription,
   rcl_node_t * node,
+  const rosidl_message_type_support_t * type_support,
+  const char * topic_name,
+  const rmw_qos_profile_t * qos_profile);
+
+RCLC_PUBLIC
+rcl_ret_t
+rclc_subscription_init_new(
+  rcl_subscription_t * subscription,
+  rcl_node_t * node,
+  int priority,
   const rosidl_message_type_support_t * type_support,
   const char * topic_name,
   const rmw_qos_profile_t * qos_profile);

@@ -247,8 +247,8 @@ CMakeFiles/visualization_msgs__rosidl_generator_c.dir/clean:
 
 # All Build rule for target.
 CMakeFiles/visualization_msgs.dir/all: CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/all
-CMakeFiles/visualization_msgs.dir/all: CMakeFiles/visualization_msgs__rosidl_generator_c.dir/all
 CMakeFiles/visualization_msgs.dir/all: CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/all
+CMakeFiles/visualization_msgs.dir/all: CMakeFiles/visualization_msgs__rosidl_generator_c.dir/all
 CMakeFiles/visualization_msgs.dir/all: CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/all
 	$(MAKE) -f CMakeFiles/visualization_msgs.dir/build.make CMakeFiles/visualization_msgs.dir/depend
 	$(MAKE) -f CMakeFiles/visualization_msgs.dir/build.make CMakeFiles/visualization_msgs.dir/build

@@ -91,6 +91,8 @@
         "session.h": "c",
         "stream_storage_internal.h": "c",
         "session_internal.h": "c",
-        "utils.h": "c"
+        "utils.h": "c",
+        "error_handling_internal.h": "c",
+        "callbacks.h": "c"
     }
 }

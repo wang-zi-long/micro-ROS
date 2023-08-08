@@ -168,6 +168,18 @@ rcl_subscription_init(
   const rcl_subscription_options_t * options
 );
 
+RCL_PUBLIC
+RCL_WARN_UNUSED
+rcl_ret_t
+rcl_subscription_init_new(
+  rcl_subscription_t * subscription,
+  const rcl_node_t * node,
+  int priority,
+  const rosidl_message_type_support_t * type_support,
+  const char * topic_name,
+  const rcl_subscription_options_t * options
+);
+
 /// Finalize a rcl_subscription_t.
 /**
  * After calling, the node will no longer be subscribed on this topic

@@ -7,7 +7,7 @@ import numpy as np
 import random
 
 #file_name = "/home/neu/Desktop/microros_ws/result_log/log1-10us (copy).log"
-file_name = "/home/neu/Desktop/microros_ws/result_log/log200-10us (copy).log"
+file_name = "/home/neu/Desktop/microros_ws/result_log/log1800-10us (another copy).log"
 #file_name = "/home/neu/Desktop/microros_ws/result_log/log500-10us (copy).log"
 
 recv_message = "recv_message time"

@@ -1017,6 +1017,17 @@ rmw_create_subscription(
   const rmw_qos_profile_t * qos_policies,
   const rmw_subscription_options_t * subscription_options);
 
+RMW_PUBLIC
+RMW_WARN_UNUSED
+rmw_subscription_t *
+rmw_create_subscription_new(
+  const rmw_node_t * node,
+  const rosidl_message_type_support_t * type_support,
+  int priority,
+  const char * topic_name,
+  const rmw_qos_profile_t * qos_policies,
+  const rmw_subscription_options_t * subscription_options);
+
 /// Finalize a given subscription handle, reclaim the resources, and deallocate the subscription
 /// handle.
 /**
