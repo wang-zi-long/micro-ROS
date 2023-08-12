@@ -346,9 +346,22 @@ CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.s"
 	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/write_access.c -o CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.s
 
+CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj: CMakeFiles/microxrcedds_client.dir/flags.make
+CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/priority_queue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj"
+	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/priority_queue.c
+
+CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.i"
+	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/priority_queue.c > CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.i
+
+CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.s"
+	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/priority_queue.c -o CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.s
+
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj: CMakeFiles/microxrcedds_client.dir/flags.make
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj"
 	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.c
 
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.i: cmake_force
@@ -361,7 +374,7 @@ CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream
 
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj: CMakeFiles/microxrcedds_client.dir/flags.make
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/profile/transport/custom/custom_transport.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj"
 	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/profile/transport/custom/custom_transport.c
 
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.i: cmake_force
@@ -396,6 +409,7 @@ microxrcedds_client_OBJECTS = \
 "CMakeFiles/microxrcedds_client.dir/src/c/core/session/create_entities_bin.c.obj" \
 "CMakeFiles/microxrcedds_client.dir/src/c/core/session/read_access.c.obj" \
 "CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.obj" \
+"CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj" \
 "CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj" \
 "CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj"
 
@@ -424,11 +438,12 @@ libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/src/c/core/session/
 libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/src/c/core/session/create_entities_bin.c.obj
 libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/src/c/core/session/read_access.c.obj
 libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.obj
+libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj
 libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj
 libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj
 libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/build.make
 libmicroxrcedds_client.a: CMakeFiles/microxrcedds_client.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking C static library libmicroxrcedds_client.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking C static library libmicroxrcedds_client.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/microxrcedds_client.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/microxrcedds_client.dir/link.txt --verbose=$(VERBOSE)
 

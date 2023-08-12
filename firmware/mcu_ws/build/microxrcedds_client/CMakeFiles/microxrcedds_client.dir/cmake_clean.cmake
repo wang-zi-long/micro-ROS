@@ -23,6 +23,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj"
   "CMakeFiles/microxrcedds_client.dir/src/c/util/ping.c.obj"
   "CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.obj"
+  "CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj"
   "libmicroxrcedds_client.a"
   "libmicroxrcedds_client.pdb"
 )

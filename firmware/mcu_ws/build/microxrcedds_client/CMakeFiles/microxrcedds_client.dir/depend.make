@@ -152,6 +152,8 @@ CMakeFiles/microxrcedds_client.dir/src/c/core/session/read_access.c.obj: /home/n
 CMakeFiles/microxrcedds_client.dir/src/c/core/session/read_access.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/microcdr/include/ucdr/visibility.h
 CMakeFiles/microxrcedds_client.dir/src/c/core/session/read_access.c.obj: include/uxr/client/config.h
 
+CMakeFiles/microxrcedds_client.dir/src/c/core/session/session.c.obj: /home/neu/Desktop/microros_ws/firmware/freertos_apps/exp.h
+CMakeFiles/microxrcedds_client.dir/src/c/core/session/session.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/priority_queue.h
 CMakeFiles/microxrcedds_client.dir/src/c/core/session/session.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/communication/communication.h
 CMakeFiles/microxrcedds_client.dir/src/c/core/session/session.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/object_id.h
 CMakeFiles/microxrcedds_client.dir/src/c/core/session/session.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/session.h
@@ -330,6 +332,7 @@ CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.obj: /home/
 CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/microcdr/include/ucdr/visibility.h
 CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.obj: include/uxr/client/config.h
 
+CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj: /home/neu/Desktop/microros_ws/firmware/freertos_apps/exp.h
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/communication/communication.h
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/stream_id.h
 CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/profile/multithread/multithread.h
@@ -398,4 +401,8 @@ CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.obj: /home/neu/Desktop/micr
 CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/visibility.h
 CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/util/time.c
 CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.obj: include/uxr/client/config.h
+
+CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj: /home/neu/Desktop/microros_ws/firmware/freertos_apps/exp.h
+CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/priority_queue.h
+CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/priority_queue.c
 

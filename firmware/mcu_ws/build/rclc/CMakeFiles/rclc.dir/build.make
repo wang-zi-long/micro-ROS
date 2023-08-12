@@ -229,6 +229,19 @@ CMakeFiles/rclc.dir/src/rclc/sleep.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/rclc.dir/src/rclc/sleep.c.s"
 	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/sleep.c -o CMakeFiles/rclc.dir/src/rclc/sleep.c.s
 
+CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj: CMakeFiles/rclc.dir/flags.make
+CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj: /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/PriorityQueue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/rclc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj"
+	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj   -c /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/PriorityQueue.c
+
+CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.i"
+	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/PriorityQueue.c > CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.i
+
+CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.s"
+	/home/neu/Desktop/microros_ws/firmware/freertos_apps/microros_nucleo_f446ze_extensions/../../toolchain/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rclc/rclc/src/rclc/PriorityQueue.c -o CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.s
+
 # Object files for target rclc
 rclc_OBJECTS = \
 "CMakeFiles/rclc.dir/src/rclc/init.c.obj" \
@@ -243,7 +256,8 @@ rclc_OBJECTS = \
 "CMakeFiles/rclc.dir/src/rclc/node.c.obj" \
 "CMakeFiles/rclc.dir/src/rclc/executor_handle.c.obj" \
 "CMakeFiles/rclc.dir/src/rclc/executor.c.obj" \
-"CMakeFiles/rclc.dir/src/rclc/sleep.c.obj"
+"CMakeFiles/rclc.dir/src/rclc/sleep.c.obj" \
+"CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj"
 
 # External object files for target rclc
 rclc_EXTERNAL_OBJECTS =
@@ -261,9 +275,10 @@ librclc.a: CMakeFiles/rclc.dir/src/rclc/node.c.obj
 librclc.a: CMakeFiles/rclc.dir/src/rclc/executor_handle.c.obj
 librclc.a: CMakeFiles/rclc.dir/src/rclc/executor.c.obj
 librclc.a: CMakeFiles/rclc.dir/src/rclc/sleep.c.obj
+librclc.a: CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj
 librclc.a: CMakeFiles/rclc.dir/build.make
 librclc.a: CMakeFiles/rclc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/rclc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX static library librclc.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/rclc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX static library librclc.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/rclc.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/rclc.dir/link.txt --verbose=$(VERBOSE)
 

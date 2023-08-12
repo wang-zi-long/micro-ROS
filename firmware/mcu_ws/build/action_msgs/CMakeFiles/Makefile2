@@ -246,8 +246,8 @@ CMakeFiles/action_msgs__rosidl_typesupport_c.dir/clean:
 # Target rules for target CMakeFiles/action_msgs.dir
 
 # All Build rule for target.
-CMakeFiles/action_msgs.dir/all: CMakeFiles/action_msgs__rosidl_generator_c.dir/all
 CMakeFiles/action_msgs.dir/all: CMakeFiles/action_msgs__rosidl_typesupport_introspection_c.dir/all
+CMakeFiles/action_msgs.dir/all: CMakeFiles/action_msgs__rosidl_generator_c.dir/all
 CMakeFiles/action_msgs.dir/all: CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_c.dir/all
 CMakeFiles/action_msgs.dir/all: CMakeFiles/action_msgs__rosidl_typesupport_c.dir/all
 	$(MAKE) -f CMakeFiles/action_msgs.dir/build.make CMakeFiles/action_msgs.dir/depend

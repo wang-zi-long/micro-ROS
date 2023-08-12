@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/home/neu/Desktop/microros_ws/firmware/freertos_apps/exp.h
+stdio.h
+/home/neu/Desktop/microros_ws/firmware/freertos_apps/stdio.h
+stdlib.h
+/home/neu/Desktop/microros_ws/firmware/freertos_apps/stdlib.h
+
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/microcdr/include/ucdr/config.h
 
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/microcdr/include/ucdr/microcdr.h
@@ -1323,6 +1329,8 @@ uxr/client/util/time.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rmw_microxrcedds/rmw_microxrcedds_c/src/rmw_microros_internal/rmw_uxrce_transports.h
 ./rmw_microros_internal/error_handling_internal.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rmw_microxrcedds/rmw_microxrcedds_c/src/rmw_microros_internal/error_handling_internal.h
+/home/neu/Desktop/microros_ws/firmware/freertos_apps/exp.h
+-
 ./rmw_microros_internal/rmw_graph.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rmw_microxrcedds/rmw_microxrcedds_c/src/rmw_microros_internal/rmw_graph.h
 
@@ -1515,6 +1523,8 @@ rmw_microros/rmw_microros.h
 -
 ./rmw_microros_internal/memory.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rmw_microxrcedds/rmw_microxrcedds_c/src/rmw_microros_internal/rmw_microros_internal/memory.h
+/home/neu/Desktop/microros_ws/firmware/freertos_apps/exp.h
+-
 
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/rmw_microxrcedds/rmw_microxrcedds_c/src/rmw_microros_internal/utils.h
 rmw/rmw.h

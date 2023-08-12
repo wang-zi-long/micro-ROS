@@ -209,6 +209,33 @@ uninstall/fast:
 	$(MAKE) -f CMakeFiles/uninstall.dir/build.make CMakeFiles/uninstall.dir/build
 .PHONY : uninstall/fast
 
+src/rclc/PriorityQueue.obj: src/rclc/PriorityQueue.c.obj
+
+.PHONY : src/rclc/PriorityQueue.obj
+
+# target to build an object file
+src/rclc/PriorityQueue.c.obj:
+	$(MAKE) -f CMakeFiles/rclc.dir/build.make CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj
+.PHONY : src/rclc/PriorityQueue.c.obj
+
+src/rclc/PriorityQueue.i: src/rclc/PriorityQueue.c.i
+
+.PHONY : src/rclc/PriorityQueue.i
+
+# target to preprocess a source file
+src/rclc/PriorityQueue.c.i:
+	$(MAKE) -f CMakeFiles/rclc.dir/build.make CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.i
+.PHONY : src/rclc/PriorityQueue.c.i
+
+src/rclc/PriorityQueue.s: src/rclc/PriorityQueue.c.s
+
+.PHONY : src/rclc/PriorityQueue.s
+
+# target to generate assembly for a file
+src/rclc/PriorityQueue.c.s:
+	$(MAKE) -f CMakeFiles/rclc.dir/build.make CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.s
+.PHONY : src/rclc/PriorityQueue.c.s
+
 src/rclc/action_client.obj: src/rclc/action_client.c.obj
 
 .PHONY : src/rclc/action_client.obj
@@ -576,6 +603,9 @@ help:
 	@echo "... rclc"
 	@echo "... rclc_uninstall"
 	@echo "... uninstall"
+	@echo "... src/rclc/PriorityQueue.obj"
+	@echo "... src/rclc/PriorityQueue.i"
+	@echo "... src/rclc/PriorityQueue.s"
 	@echo "... src/rclc/action_client.obj"
 	@echo "... src/rclc/action_client.i"
 	@echo "... src/rclc/action_client.s"

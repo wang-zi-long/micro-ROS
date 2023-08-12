@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/rclc.dir/src/rclc/PriorityQueue.c.obj"
   "CMakeFiles/rclc.dir/src/rclc/action_client.c.obj"
   "CMakeFiles/rclc.dir/src/rclc/action_goal_handle.c.obj"
   "CMakeFiles/rclc.dir/src/rclc/action_server.c.obj"

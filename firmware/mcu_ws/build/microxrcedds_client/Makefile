@@ -820,6 +820,33 @@ src/c/util/time.c.s:
 	$(MAKE) -f CMakeFiles/microxrcedds_client.dir/build.make CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.s
 .PHONY : src/c/util/time.c.s
 
+src/priority_queue.obj: src/priority_queue.c.obj
+
+.PHONY : src/priority_queue.obj
+
+# target to build an object file
+src/priority_queue.c.obj:
+	$(MAKE) -f CMakeFiles/microxrcedds_client.dir/build.make CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj
+.PHONY : src/priority_queue.c.obj
+
+src/priority_queue.i: src/priority_queue.c.i
+
+.PHONY : src/priority_queue.i
+
+# target to preprocess a source file
+src/priority_queue.c.i:
+	$(MAKE) -f CMakeFiles/microxrcedds_client.dir/build.make CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.i
+.PHONY : src/priority_queue.c.i
+
+src/priority_queue.s: src/priority_queue.c.s
+
+.PHONY : src/priority_queue.s
+
+# target to generate assembly for a file
+src/priority_queue.c.s:
+	$(MAKE) -f CMakeFiles/microxrcedds_client.dir/build.make CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.s
+.PHONY : src/priority_queue.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -905,6 +932,9 @@ help:
 	@echo "... src/c/util/time.obj"
 	@echo "... src/c/util/time.i"
 	@echo "... src/c/util/time.s"
+	@echo "... src/priority_queue.obj"
+	@echo "... src/priority_queue.i"
+	@echo "... src/priority_queue.s"
 .PHONY : help
 
 

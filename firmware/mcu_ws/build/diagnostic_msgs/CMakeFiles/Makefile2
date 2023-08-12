@@ -138,9 +138,9 @@ CMakeFiles/diagnostic_msgs__rosidl_typesupport_microxrcedds_c.dir/clean:
 # Target rules for target CMakeFiles/diagnostic_msgs.dir
 
 # All Build rule for target.
+CMakeFiles/diagnostic_msgs.dir/all: CMakeFiles/diagnostic_msgs__rosidl_typesupport_microxrcedds_c.dir/all
 CMakeFiles/diagnostic_msgs.dir/all: CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/all
 CMakeFiles/diagnostic_msgs.dir/all: CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/all
-CMakeFiles/diagnostic_msgs.dir/all: CMakeFiles/diagnostic_msgs__rosidl_typesupport_microxrcedds_c.dir/all
 CMakeFiles/diagnostic_msgs.dir/all: CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/all
 	$(MAKE) -f CMakeFiles/diagnostic_msgs.dir/build.make CMakeFiles/diagnostic_msgs.dir/depend
 	$(MAKE) -f CMakeFiles/diagnostic_msgs.dir/build.make CMakeFiles/diagnostic_msgs.dir/build

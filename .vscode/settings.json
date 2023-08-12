@@ -93,6 +93,21 @@
         "session_internal.h": "c",
         "utils.h": "c",
         "error_handling_internal.h": "c",
-        "callbacks.h": "c"
+        "callbacks.h": "c",
+        "session_info_internal.h": "c",
+        "priority_queue.h": "c",
+        "log_internal.h": "c",
+        "stdlib.h": "c",
+        "malloc.h": "c",
+        "output_best_effort_stream_internal.h": "c",
+        "exp.h": "c",
+        "memory.h": "c",
+        "stdio.h": "c",
+        "executor.h": "c",
+        "timer.h": "c",
+        "priorityqueue.h": "c",
+        "time.h": "c",
+        "microros_transports.h": "c",
+        "stdbool.h": "c"
     }
 }

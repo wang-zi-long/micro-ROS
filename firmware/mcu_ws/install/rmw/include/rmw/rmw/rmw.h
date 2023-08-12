@@ -2714,6 +2714,10 @@ rmw_wait(
   rmw_wait_set_t * wait_set,
   const rmw_time_t * wait_timeout);
 
+RMW_PUBLIC
+RMW_WARN_UNUSED
+void rmw_wait_new(rmw_subscriptions_t * subscriptions, int64_t timeout);
+
 /// Return the name and namespace of all nodes in the ROS graph.
 /**
  * This function will return an array of node names and an array of node namespaces,

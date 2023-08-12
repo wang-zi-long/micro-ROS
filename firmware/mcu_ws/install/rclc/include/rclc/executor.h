@@ -247,6 +247,16 @@ rclc_executor_add_subscription(
   rclc_subscription_callback_t callback,
   rclc_executor_handle_invocation_t invocation);
 
+RCLC_PUBLIC
+rcl_ret_t
+rclc_executor_add_subscription_new(
+  rclc_executor_t * executor,
+  rcl_subscription_t * subscription,
+  void * msg,
+  int priority,
+  rclc_subscription_callback_t callback,
+  rclc_executor_handle_invocation_t invocation);
+
 /**
  *  Adds a subscription to an executor.
  * * An error is returned, if {@link rclc_executor_t.handles} array is full.
@@ -307,7 +317,18 @@ rclc_executor_add_timer(
   rclc_executor_t * executor,
   rcl_timer_t * timer);
 
+RCLC_PUBLIC
+rcl_ret_t
+rclc_executor_add_timer_new(
+  rclc_executor_t * executor,
+  rcl_timer_t * timer,
+  int priority);
 
+RCLC_PUBLIC
+void
+rclc_executor_add_timer_handle_new(
+  rclc_executor_t * executor
+);
 /**
  *  Adds a client to an executor.
  * * An error is returned if {@link rclc_executor_t.handles} array is full.
@@ -770,6 +791,12 @@ rclc_executor_prepare(
 RCLC_PUBLIC
 rcl_ret_t
 rclc_executor_spin_some(
+  rclc_executor_t * executor,
+  const uint64_t timeout_ns);
+
+RCLC_PUBLIC
+rcl_ret_t
+rclc_executor_spin_some_new(
   rclc_executor_t * executor,
   const uint64_t timeout_ns);
 

@@ -69,7 +69,7 @@ typedef void (* uxrOnStatusFunc) (
  * @param length        Length of the serialized data.
  * @param args		    User pointer data.
  */
-typedef void (* uxrOnTopicFunc) (
+typedef int (* uxrOnTopicFunc) (
         struct uxrSession* session,
         uxrObjectId object_id,
         uint16_t request_id,

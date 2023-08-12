@@ -12,6 +12,7 @@
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rclc/include/rclc/client.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rclc/include/rclc/action_goal_handle.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rclc/include/rclc/action_client.h
+/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rclc/include/rclc/PriorityQueue.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rclc/include/rclc/action_server.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rclc/include/rclc/types.h
 /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/rclc/include/rclc/sleep.h

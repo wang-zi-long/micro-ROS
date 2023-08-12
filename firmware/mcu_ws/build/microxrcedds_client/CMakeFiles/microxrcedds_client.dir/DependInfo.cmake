@@ -28,6 +28,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.c" "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.obj"
   "/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/util/ping.c" "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles/microxrcedds_client.dir/src/c/util/ping.c.obj"
   "/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/c/util/time.c" "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.obj"
+  "/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/src/priority_queue.c" "/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/microxrcedds_client/CMakeFiles/microxrcedds_client.dir/src/priority_queue.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
