@@ -25,6 +25,7 @@ extern "C"
 #include <stdint.h>
 #include <stddef.h>
 #include <stdbool.h>
+#include "/home/neu/Desktop/microros_ws/firmware/freertos_apps/exp.h"
 
 #ifdef UCLIENT_PROFILE_MULTITHREAD
 #include <uxr/client/profile/multithread/multithread.h>

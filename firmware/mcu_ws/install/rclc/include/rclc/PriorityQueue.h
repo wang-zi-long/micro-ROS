@@ -24,7 +24,7 @@ void PQ_Init();
 PQNode* get_PQNode();
 void put_PQNode(PQNode* p);
 void Timer_Enqueue(rclc_executor_handle_t *temp);
-void Ready_Enqueue(PQNode* temp);
+bool Ready_Enqueue(PQNode* temp);
 bool Check_TimerList();
 void Update_TimerList(PQNode* temp);
 bool Check_ReadyList();

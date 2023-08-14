@@ -111,9 +111,9 @@ CMakeFiles/geometry_msgs_uninstall.dir/clean:
 # Target rules for target CMakeFiles/geometry_msgs.dir
 
 # All Build rule for target.
+CMakeFiles/geometry_msgs.dir/all: CMakeFiles/geometry_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/geometry_msgs.dir/all: CMakeFiles/geometry_msgs__rosidl_typesupport_c.dir/all
 CMakeFiles/geometry_msgs.dir/all: CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/all
-CMakeFiles/geometry_msgs.dir/all: CMakeFiles/geometry_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/geometry_msgs.dir/all: CMakeFiles/geometry_msgs__rosidl_generator_c.dir/all
 	$(MAKE) -f CMakeFiles/geometry_msgs.dir/build.make CMakeFiles/geometry_msgs.dir/depend
 	$(MAKE) -f CMakeFiles/geometry_msgs.dir/build.make CMakeFiles/geometry_msgs.dir/build

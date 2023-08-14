@@ -1,0 +1,1548 @@
+==========|start|temperature timer publish  seq : 0.  at 140011
+==========|end  |temperature sub   received seq : 0.  at 140678
+==========|start|sensor timer publish  seq : 0.  at 144730
+==========|end  |action sub   received seq : 0.  at 145330
+==========|start|temperature timer publish  seq : 1.  at 147218
+==========|end  |temperature sub   received seq : 1.  at 147863
+==========|start|temperature timer publish  seq : 2.  at 149802
+==========|end  |temperature sub   received seq : 2.  at 150447
+==========|start|sensor timer publish  seq : 1.  at 154732
+==========|end  |action sub   received seq : 1.  at 155332
+==========|start|temperature timer publish  seq : 3.  at 157221
+==========|end  |temperature sub   received seq : 3.  at 157866
+==========|start|temperature timer publish  seq : 4.  at 159806
+==========|end  |temperature sub   received seq : 4.  at 160451
+==========|start|sensor timer publish  seq : 2.  at 164730
+==========|end  |action sub   received seq : 2.  at 165330
+==========|start|temperature timer publish  seq : 5.  at 167218
+==========|end  |temperature sub   received seq : 5.  at 167863
+==========|start|temperature timer publish  seq : 6.  at 169802
+==========|end  |temperature sub   received seq : 6.  at 170447
+==========|start|sensor timer publish  seq : 3.  at 174732
+==========|end  |action sub   received seq : 3.  at 175332
+==========|start|temperature timer publish  seq : 7.  at 177219
+==========|end  |temperature sub   received seq : 7.  at 177864
+==========|start|temperature timer publish  seq : 8.  at 179803
+==========|end  |temperature sub   received seq : 8.  at 180448
+==========|start|sensor timer publish  seq : 4.  at 184730
+==========|end  |action sub   received seq : 4.  at 185330
+==========|start|temperature timer publish  seq : 9.  at 187219
+==========|end  |temperature sub   received seq : 9.  at 187865
+==========|start|temperature timer publish  seq : 10.  at 189804
+==========|end  |temperature sub   received seq : 10.  at 190461
+==========|start|sensor timer publish  seq : 5.  at 194732
+==========|end  |action sub   received seq : 5.  at 195329
+==========|start|temperature timer publish  seq : 11.  at 197217
+==========|end  |temperature sub   received seq : 11.  at 197872
+==========|start|temperature timer publish  seq : 12.  at 199819
+==========|end  |temperature sub   received seq : 12.  at 200474
+==========|start|sensor timer publish  seq : 6.  at 204731
+==========|end  |action sub   received seq : 6.  at 205331
+==========|start|temperature timer publish  seq : 13.  at 207219
+==========|end  |temperature sub   received seq : 13.  at 207874
+==========|start|temperature timer publish  seq : 14.  at 209821
+==========|end  |temperature sub   received seq : 14.  at 210476
+==========|start|sensor timer publish  seq : 7.  at 214731
+==========|end  |action sub   received seq : 7.  at 215331
+==========|start|temperature timer publish  seq : 15.  at 217219
+==========|end  |temperature sub   received seq : 15.  at 217874
+==========|start|temperature timer publish  seq : 16.  at 219823
+==========|end  |temperature sub   received seq : 16.  at 220478
+==========|start|sensor timer publish  seq : 8.  at 224731
+==========|end  |action sub   received seq : 8.  at 225331
+==========|start|temperature timer publish  seq : 17.  at 227220
+==========|end  |temperature sub   received seq : 17.  at 227876
+==========|start|temperature timer publish  seq : 18.  at 229825
+==========|end  |temperature sub   received seq : 18.  at 230480
+==========|start|sensor timer publish  seq : 9.  at 234732
+==========|end  |action sub   received seq : 9.  at 235330
+==========|start|temperature timer publish  seq : 19.  at 237218
+==========|end  |temperature sub   received seq : 19.  at 237873
+==========|start|temperature timer publish  seq : 20.  at 239823
+==========|end  |temperature sub   received seq : 20.  at 240478
+==========|start|sensor timer publish  seq : 10.  at 244732
+==========|end  |action sub   received seq : 10.  at 245339
+==========|start|temperature timer publish  seq : 21.  at 247235
+==========|end  |temperature sub   received seq : 21.  at 247890
+==========|start|temperature timer publish  seq : 22.  at 249839
+==========|end  |temperature sub   received seq : 22.  at 250494
+==========|start|sensor timer publish  seq : 11.  at 254730
+==========|end  |action sub   received seq : 11.  at 255340
+==========|start|temperature timer publish  seq : 23.  at 257237
+==========|end  |temperature sub   received seq : 23.  at 257892
+==========|start|temperature timer publish  seq : 24.  at 259841
+==========|end  |temperature sub   received seq : 24.  at 260496
+==========|start|sensor timer publish  seq : 12.  at 264732
+==========|end  |action sub   received seq : 12.  at 265342
+==========|start|temperature timer publish  seq : 25.  at 267240
+==========|end  |temperature sub   received seq : 25.  at 267895
+==========|start|temperature timer publish  seq : 26.  at 269842
+==========|end  |temperature sub   received seq : 26.  at 270497
+==========|start|sensor timer publish  seq : 13.  at 274732
+==========|end  |action sub   received seq : 13.  at 275341
+==========|start|temperature timer publish  seq : 27.  at 277240
+==========|end  |temperature sub   received seq : 27.  at 277895
+==========|start|temperature timer publish  seq : 28.  at 279844
+==========|end  |temperature sub   received seq : 28.  at 280499
+==========|start|sensor timer publish  seq : 14.  at 284732
+==========|end  |action sub   received seq : 14.  at 285339
+==========|start|temperature timer publish  seq : 29.  at 287236
+==========|end  |temperature sub   received seq : 29.  at 287891
+==========|start|temperature timer publish  seq : 30.  at 289841
+==========|end  |temperature sub   received seq : 30.  at 290496
+==========|start|sensor timer publish  seq : 15.  at 294731
+==========|end  |action sub   received seq : 15.  at 295340
+==========|start|temperature timer publish  seq : 31.  at 297238
+==========|end  |temperature sub   received seq : 31.  at 297893
+==========|start|temperature timer publish  seq : 32.  at 299843
+==========|end  |temperature sub   received seq : 32.  at 300498
+==========|start|sensor timer publish  seq : 16.  at 304732
+==========|end  |action sub   received seq : 16.  at 305341
+==========|start|temperature timer publish  seq : 33.  at 307240
+==========|end  |temperature sub   received seq : 33.  at 307895
+==========|start|temperature timer publish  seq : 34.  at 309845
+==========|end  |temperature sub   received seq : 34.  at 310500
+==========|start|sensor timer publish  seq : 17.  at 314731
+==========|end  |action sub   received seq : 17.  at 315341
+==========|start|temperature timer publish  seq : 35.  at 317239
+==========|end  |temperature sub   received seq : 35.  at 317894
+==========|start|temperature timer publish  seq : 36.  at 319841
+==========|end  |temperature sub   received seq : 36.  at 320496
+==========|start|sensor timer publish  seq : 18.  at 324732
+==========|end  |action sub   received seq : 18.  at 325338
+==========|start|temperature timer publish  seq : 37.  at 327236
+==========|end  |temperature sub   received seq : 37.  at 327891
+==========|start|temperature timer publish  seq : 38.  at 329838
+==========|end  |temperature sub   received seq : 38.  at 330493
+==========|start|sensor timer publish  seq : 19.  at 334731
+==========|end  |action sub   received seq : 19.  at 335341
+==========|start|temperature timer publish  seq : 39.  at 337239
+==========|end  |temperature sub   received seq : 39.  at 337894
+==========|start|temperature timer publish  seq : 40.  at 339843
+==========|end  |temperature sub   received seq : 40.  at 340497
+==========|start|sensor timer publish  seq : 20.  at 344732
+==========|end  |action sub   received seq : 20.  at 345342
+==========|start|temperature timer publish  seq : 41.  at 347240
+==========|end  |temperature sub   received seq : 41.  at 347895
+==========|start|temperature timer publish  seq : 42.  at 349843
+==========|end  |temperature sub   received seq : 42.  at 350498
+==========|start|sensor timer publish  seq : 21.  at 354731
+==========|end  |action sub   received seq : 21.  at 355340
+==========|start|temperature timer publish  seq : 43.  at 357240
+==========|end  |temperature sub   received seq : 43.  at 357895
+==========|start|temperature timer publish  seq : 44.  at 359845
+==========|end  |temperature sub   received seq : 44.  at 360500
+==========|start|sensor timer publish  seq : 22.  at 364731
+==========|end  |action sub   received seq : 22.  at 365338
+==========|start|temperature timer publish  seq : 45.  at 367237
+==========|end  |temperature sub   received seq : 45.  at 367892
+==========|start|temperature timer publish  seq : 46.  at 369842
+==========|end  |temperature sub   received seq : 46.  at 370497
+==========|start|sensor timer publish  seq : 23.  at 374732
+==========|end  |action sub   received seq : 23.  at 375339
+==========|start|temperature timer publish  seq : 47.  at 377237
+==========|end  |temperature sub   received seq : 47.  at 377892
+==========|start|temperature timer publish  seq : 48.  at 379841
+==========|end  |temperature sub   received seq : 48.  at 380496
+==========|start|sensor timer publish  seq : 24.  at 384731
+==========|end  |action sub   received seq : 24.  at 385341
+==========|start|temperature timer publish  seq : 49.  at 387239
+==========|end  |temperature sub   received seq : 49.  at 387894
+==========|start|temperature timer publish  seq : 50.  at 389844
+==========|end  |temperature sub   received seq : 50.  at 390499
+==========|start|sensor timer publish  seq : 25.  at 394732
+==========|end  |action sub   received seq : 25.  at 395339
+==========|start|temperature timer publish  seq : 51.  at 397237
+==========|end  |temperature sub   received seq : 51.  at 397892
+==========|start|temperature timer publish  seq : 52.  at 399841
+==========|end  |temperature sub   received seq : 52.  at 400496
+==========|start|sensor timer publish  seq : 26.  at 404730
+==========|end  |action sub   received seq : 26.  at 405339
+==========|start|temperature timer publish  seq : 53.  at 407238
+==========|end  |temperature sub   received seq : 53.  at 407893
+==========|start|temperature timer publish  seq : 54.  at 409843
+==========|end  |temperature sub   received seq : 54.  at 410498
+==========|start|sensor timer publish  seq : 27.  at 414732
+==========|end  |action sub   received seq : 27.  at 415341
+==========|start|temperature timer publish  seq : 55.  at 417241
+==========|end  |temperature sub   received seq : 55.  at 417896
+==========|start|temperature timer publish  seq : 56.  at 419846
+==========|end  |temperature sub   received seq : 56.  at 420501
+==========|start|sensor timer publish  seq : 28.  at 424730
+==========|end  |action sub   received seq : 28.  at 425340
+==========|start|temperature timer publish  seq : 57.  at 427238
+==========|end  |temperature sub   received seq : 57.  at 427893
+==========|start|temperature timer publish  seq : 58.  at 429841
+==========|end  |temperature sub   received seq : 58.  at 430496
+==========|start|sensor timer publish  seq : 29.  at 434732
+==========|end  |action sub   received seq : 29.  at 435339
+==========|start|temperature timer publish  seq : 59.  at 437236
+==========|end  |temperature sub   received seq : 59.  at 437891
+==========|start|temperature timer publish  seq : 60.  at 439838
+==========|end  |temperature sub   received seq : 60.  at 440493
+==========|start|sensor timer publish  seq : 30.  at 444730
+==========|end  |action sub   received seq : 30.  at 445340
+==========|start|temperature timer publish  seq : 61.  at 447238
+==========|end  |temperature sub   received seq : 61.  at 447893
+==========|start|temperature timer publish  seq : 62.  at 449840
+==========|end  |temperature sub   received seq : 62.  at 450495
+==========|start|sensor timer publish  seq : 31.  at 454732
+==========|end  |action sub   received seq : 31.  at 455342
+==========|start|temperature timer publish  seq : 63.  at 457240
+==========|end  |temperature sub   received seq : 63.  at 457895
+==========|start|temperature timer publish  seq : 64.  at 459843
+==========|end  |temperature sub   received seq : 64.  at 460498
+==========|start|sensor timer publish  seq : 32.  at 464731
+==========|end  |action sub   received seq : 32.  at 465340
+==========|start|temperature timer publish  seq : 65.  at 467239
+==========|end  |temperature sub   received seq : 65.  at 467894
+==========|start|temperature timer publish  seq : 66.  at 469844
+==========|end  |temperature sub   received seq : 66.  at 470499
+==========|start|sensor timer publish  seq : 33.  at 474740
+==========|end  |action sub   received seq : 33.  at 475347
+==========|start|temperature timer publish  seq : 67.  at 477254
+==========|end  |temperature sub   received seq : 67.  at 477910
+==========|start|temperature timer publish  seq : 68.  at 479859
+==========|end  |temperature sub   received seq : 68.  at 480514
+==========|start|sensor timer publish  seq : 34.  at 484731
+==========|end  |action sub   received seq : 34.  at 485340
+==========|start|temperature timer publish  seq : 69.  at 487238
+==========|end  |temperature sub   received seq : 69.  at 487893
+==========|start|temperature timer publish  seq : 70.  at 489843
+==========|end  |temperature sub   received seq : 70.  at 490498
+==========|start|sensor timer publish  seq : 35.  at 494732
+==========|end  |action sub   received seq : 35.  at 495341
+==========|start|temperature timer publish  seq : 71.  at 497240
+==========|end  |temperature sub   received seq : 71.  at 497895
+==========|start|temperature timer publish  seq : 72.  at 499844
+==========|end  |temperature sub   received seq : 72.  at 500499
+==========|start|sensor timer publish  seq : 36.  at 504732
+==========|end  |action sub   received seq : 36.  at 505339
+==========|start|temperature timer publish  seq : 73.  at 507237
+==========|end  |temperature sub   received seq : 73.  at 507892
+==========|start|temperature timer publish  seq : 74.  at 509841
+==========|end  |temperature sub   received seq : 74.  at 510496
+==========|start|sensor timer publish  seq : 37.  at 514730
+==========|end  |action sub   received seq : 37.  at 515339
+==========|start|temperature timer publish  seq : 75.  at 517238
+==========|end  |temperature sub   received seq : 75.  at 517893
+==========|start|temperature timer publish  seq : 76.  at 519843
+==========|end  |temperature sub   received seq : 76.  at 520498
+==========|start|sensor timer publish  seq : 38.  at 524732
+==========|end  |action sub   received seq : 38.  at 525342
+==========|start|temperature timer publish  seq : 77.  at 527240
+==========|end  |temperature sub   received seq : 77.  at 527895
+==========|start|temperature timer publish  seq : 78.  at 529845
+==========|end  |temperature sub   received seq : 78.  at 530500
+==========|start|sensor timer publish  seq : 39.  at 534730
+==========|end  |action sub   received seq : 39.  at 535339
+==========|start|temperature timer publish  seq : 79.  at 537237
+==========|end  |temperature sub   received seq : 79.  at 537892
+==========|start|temperature timer publish  seq : 80.  at 539842
+==========|end  |temperature sub   received seq : 80.  at 540497
+==========|start|sensor timer publish  seq : 40.  at 544731
+==========|end  |action sub   received seq : 40.  at 545340
+==========|start|temperature timer publish  seq : 81.  at 547239
+==========|end  |temperature sub   received seq : 81.  at 547894
+==========|start|temperature timer publish  seq : 82.  at 549852
+==========|end  |temperature sub   received seq : 82.  at 550507
+==========|start|sensor timer publish  seq : 41.  at 554730
+==========|end  |action sub   received seq : 41.  at 555340
+==========|start|temperature timer publish  seq : 83.  at 557246
+==========|end  |temperature sub   received seq : 83.  at 557903
+==========|start|temperature timer publish  seq : 84.  at 559859
+==========|end  |temperature sub   received seq : 84.  at 560516
+==========|start|sensor timer publish  seq : 42.  at 564730
+==========|end  |action sub   received seq : 42.  at 565339
+==========|start|temperature timer publish  seq : 85.  at 567238
+==========|end  |temperature sub   received seq : 85.  at 567893
+==========|start|temperature timer publish  seq : 86.  at 569842
+==========|end  |temperature sub   received seq : 86.  at 570497
+==========|start|sensor timer publish  seq : 43.  at 574730
+==========|end  |action sub   received seq : 43.  at 575340
+==========|start|temperature timer publish  seq : 87.  at 577238
+==========|end  |temperature sub   received seq : 87.  at 577894
+==========|start|temperature timer publish  seq : 88.  at 579842
+==========|end  |temperature sub   received seq : 88.  at 580497
+==========|start|sensor timer publish  seq : 44.  at 584730
+==========|end  |action sub   received seq : 44.  at 585340
+==========|start|temperature timer publish  seq : 89.  at 587237
+==========|end  |temperature sub   received seq : 89.  at 587892
+==========|start|temperature timer publish  seq : 90.  at 589841
+==========|end  |temperature sub   received seq : 90.  at 590496
+==========|start|sensor timer publish  seq : 45.  at 594732
+==========|end  |action sub   received seq : 45.  at 595342
+==========|start|temperature timer publish  seq : 91.  at 597240
+==========|end  |temperature sub   received seq : 91.  at 597895
+==========|start|temperature timer publish  seq : 92.  at 599845
+==========|end  |temperature sub   received seq : 92.  at 600500
+==========|start|sensor timer publish  seq : 46.  at 604731
+==========|end  |action sub   received seq : 46.  at 605338
+==========|start|temperature timer publish  seq : 93.  at 607236
+==========|end  |temperature sub   received seq : 93.  at 607891
+==========|start|temperature timer publish  seq : 94.  at 609838
+==========|end  |temperature sub   received seq : 94.  at 610493
+==========|start|sensor timer publish  seq : 47.  at 614730
+==========|end  |action sub   received seq : 47.  at 615340
+==========|start|temperature timer publish  seq : 95.  at 617238
+==========|end  |temperature sub   received seq : 95.  at 617893
+==========|start|temperature timer publish  seq : 96.  at 619841
+==========|end  |temperature sub   received seq : 96.  at 620496
+==========|start|sensor timer publish  seq : 48.  at 624731
+==========|end  |action sub   received seq : 48.  at 625342
+==========|start|temperature timer publish  seq : 97.  at 627241
+==========|end  |temperature sub   received seq : 97.  at 627896
+==========|start|temperature timer publish  seq : 98.  at 629844
+==========|end  |temperature sub   received seq : 98.  at 630499
+==========|start|sensor timer publish  seq : 49.  at 634731
+==========|end  |action sub   received seq : 49.  at 635341
+==========|start|temperature timer publish  seq : 99.  at 637239
+==========|end  |temperature sub   received seq : 99.  at 637894
+==========|start|temperature timer publish  seq : 100.  at 639843
+==========|end  |temperature sub   received seq : 100.  at 640508
+==========|start|sensor timer publish  seq : 50.  at 644731
+==========|end  |action sub   received seq : 50.  at 645341
+==========|start|temperature timer publish  seq : 101.  at 647239
+==========|end  |temperature sub   received seq : 101.  at 647904
+==========|start|temperature timer publish  seq : 102.  at 649862
+==========|end  |temperature sub   received seq : 102.  at 650526
+==========|start|sensor timer publish  seq : 51.  at 654732
+==========|end  |action sub   received seq : 51.  at 655339
+==========|start|temperature timer publish  seq : 103.  at 657236
+==========|end  |temperature sub   received seq : 103.  at 657900
+==========|start|temperature timer publish  seq : 104.  at 659859
+==========|end  |temperature sub   received seq : 104.  at 660523
+==========|start|sensor timer publish  seq : 52.  at 664732
+==========|end  |action sub   received seq : 52.  at 665339
+==========|start|temperature timer publish  seq : 105.  at 667238
+==========|end  |temperature sub   received seq : 105.  at 667903
+==========|start|temperature timer publish  seq : 106.  at 669861
+==========|end  |temperature sub   received seq : 106.  at 670525
+==========|start|sensor timer publish  seq : 53.  at 674731
+==========|end  |action sub   received seq : 53.  at 675341
+==========|start|temperature timer publish  seq : 107.  at 677239
+==========|end  |temperature sub   received seq : 107.  at 677904
+==========|start|temperature timer publish  seq : 108.  at 679861
+==========|end  |temperature sub   received seq : 108.  at 680526
+==========|start|sensor timer publish  seq : 54.  at 684731
+==========|end  |action sub   received seq : 54.  at 685341
+==========|start|temperature timer publish  seq : 109.  at 687239
+==========|end  |temperature sub   received seq : 109.  at 687904
+==========|start|temperature timer publish  seq : 110.  at 689862
+==========|end  |temperature sub   received seq : 110.  at 690527
+==========|start|sensor timer publish  seq : 55.  at 694731
+==========|end  |action sub   received seq : 55.  at 695341
+==========|start|temperature timer publish  seq : 111.  at 697239
+==========|end  |temperature sub   received seq : 111.  at 697904
+==========|start|temperature timer publish  seq : 112.  at 699862
+==========|end  |temperature sub   received seq : 112.  at 700526
+==========|start|sensor timer publish  seq : 56.  at 704732
+==========|end  |action sub   received seq : 56.  at 705342
+==========|start|temperature timer publish  seq : 113.  at 707239
+==========|end  |temperature sub   received seq : 113.  at 707904
+==========|start|temperature timer publish  seq : 114.  at 709863
+==========|end  |temperature sub   received seq : 114.  at 710527
+==========|start|sensor timer publish  seq : 57.  at 714731
+==========|end  |action sub   received seq : 57.  at 715341
+==========|start|temperature timer publish  seq : 115.  at 717237
+==========|end  |temperature sub   received seq : 115.  at 717902
+==========|start|temperature timer publish  seq : 116.  at 719861
+==========|end  |temperature sub   received seq : 116.  at 720527
+==========|start|sensor timer publish  seq : 58.  at 724731
+==========|end  |action sub   received seq : 58.  at 725341
+==========|start|temperature timer publish  seq : 117.  at 727238
+==========|end  |temperature sub   received seq : 117.  at 727903
+==========|start|temperature timer publish  seq : 118.  at 729860
+==========|end  |temperature sub   received seq : 118.  at 730525
+==========|start|sensor timer publish  seq : 59.  at 734732
+==========|end  |action sub   received seq : 59.  at 735341
+==========|start|temperature timer publish  seq : 119.  at 737239
+==========|end  |temperature sub   received seq : 119.  at 737904
+==========|start|temperature timer publish  seq : 120.  at 739863
+==========|end  |temperature sub   received seq : 120.  at 740527
+==========|start|sensor timer publish  seq : 60.  at 744731
+==========|end  |action sub   received seq : 60.  at 745341
+==========|start|temperature timer publish  seq : 121.  at 747239
+==========|end  |temperature sub   received seq : 121.  at 747903
+==========|start|temperature timer publish  seq : 122.  at 749862
+==========|end  |temperature sub   received seq : 122.  at 750526
+==========|start|sensor timer publish  seq : 61.  at 754731
+==========|end  |action sub   received seq : 61.  at 755341
+==========|start|temperature timer publish  seq : 123.  at 757239
+==========|end  |temperature sub   received seq : 123.  at 757904
+==========|start|temperature timer publish  seq : 124.  at 759862
+==========|end  |temperature sub   received seq : 124.  at 760526
+==========|start|sensor timer publish  seq : 62.  at 764732
+==========|end  |action sub   received seq : 62.  at 765339
+==========|start|temperature timer publish  seq : 125.  at 767237
+==========|end  |temperature sub   received seq : 125.  at 767901
+==========|start|temperature timer publish  seq : 126.  at 769860
+==========|end  |temperature sub   received seq : 126.  at 770524
+==========|start|sensor timer publish  seq : 63.  at 774731
+==========|end  |action sub   received seq : 63.  at 775338
+==========|start|temperature timer publish  seq : 127.  at 777236
+==========|end  |temperature sub   received seq : 127.  at 777901
+==========|start|temperature timer publish  seq : 128.  at 779860
+==========|end  |temperature sub   received seq : 128.  at 780524
+==========|start|sensor timer publish  seq : 64.  at 784731
+==========|end  |action sub   received seq : 64.  at 785342
+==========|start|temperature timer publish  seq : 129.  at 787249
+==========|end  |temperature sub   received seq : 129.  at 787914
+==========|start|temperature timer publish  seq : 130.  at 789873
+==========|end  |temperature sub   received seq : 130.  at 790538
+==========|start|sensor timer publish  seq : 65.  at 794731
+==========|end  |action sub   received seq : 65.  at 795341
+==========|start|temperature timer publish  seq : 131.  at 797238
+==========|end  |temperature sub   received seq : 131.  at 797903
+==========|start|temperature timer publish  seq : 132.  at 799862
+==========|end  |temperature sub   received seq : 132.  at 800527
+==========|start|sensor timer publish  seq : 66.  at 804730
+==========|end  |action sub   received seq : 66.  at 805340
+==========|start|temperature timer publish  seq : 133.  at 807238
+==========|end  |temperature sub   received seq : 133.  at 807903
+==========|start|temperature timer publish  seq : 134.  at 809861
+==========|end  |temperature sub   received seq : 134.  at 810525
+==========|start|sensor timer publish  seq : 67.  at 814730
+==========|end  |action sub   received seq : 67.  at 815339
+==========|start|temperature timer publish  seq : 135.  at 817238
+==========|end  |temperature sub   received seq : 135.  at 817903
+==========|start|temperature timer publish  seq : 136.  at 819861
+==========|end  |temperature sub   received seq : 136.  at 820526
+==========|start|sensor timer publish  seq : 68.  at 824732
+==========|end  |action sub   received seq : 68.  at 825342
+==========|start|temperature timer publish  seq : 137.  at 827239
+==========|end  |temperature sub   received seq : 137.  at 827904
+==========|start|temperature timer publish  seq : 138.  at 829861
+==========|end  |temperature sub   received seq : 138.  at 830525
+==========|start|sensor timer publish  seq : 69.  at 834730
+==========|end  |action sub   received seq : 69.  at 835340
+==========|start|temperature timer publish  seq : 139.  at 837238
+==========|end  |temperature sub   received seq : 139.  at 837903
+==========|start|temperature timer publish  seq : 140.  at 839862
+==========|end  |temperature sub   received seq : 140.  at 840526
+==========|start|sensor timer publish  seq : 70.  at 844733
+==========|end  |action sub   received seq : 70.  at 845340
+==========|start|temperature timer publish  seq : 141.  at 847238
+==========|end  |temperature sub   received seq : 141.  at 847903
+==========|start|temperature timer publish  seq : 142.  at 849861
+==========|end  |temperature sub   received seq : 142.  at 850526
+==========|start|sensor timer publish  seq : 71.  at 854731
+==========|end  |action sub   received seq : 71.  at 855341
+==========|start|temperature timer publish  seq : 143.  at 857239
+==========|end  |temperature sub   received seq : 143.  at 857903
+==========|start|temperature timer publish  seq : 144.  at 859862
+==========|end  |temperature sub   received seq : 144.  at 860526
+==========|start|sensor timer publish  seq : 72.  at 864732
+==========|end  |action sub   received seq : 72.  at 865342
+==========|start|temperature timer publish  seq : 145.  at 867241
+==========|end  |temperature sub   received seq : 145.  at 867905
+==========|start|temperature timer publish  seq : 146.  at 869863
+==========|end  |temperature sub   received seq : 146.  at 870527
+==========|start|sensor timer publish  seq : 73.  at 874731
+==========|end  |action sub   received seq : 73.  at 875340
+==========|start|temperature timer publish  seq : 147.  at 877239
+==========|end  |temperature sub   received seq : 147.  at 877904
+==========|start|temperature timer publish  seq : 148.  at 879862
+==========|end  |temperature sub   received seq : 148.  at 880527
+==========|start|sensor timer publish  seq : 74.  at 884731
+==========|end  |action sub   received seq : 74.  at 885341
+==========|start|temperature timer publish  seq : 149.  at 887237
+==========|end  |temperature sub   received seq : 149.  at 887902
+==========|start|temperature timer publish  seq : 150.  at 889861
+==========|end  |temperature sub   received seq : 150.  at 890525
+==========|start|sensor timer publish  seq : 75.  at 894732
+==========|end  |action sub   received seq : 75.  at 895342
+==========|start|temperature timer publish  seq : 151.  at 897240
+==========|end  |temperature sub   received seq : 151.  at 897905
+==========|start|temperature timer publish  seq : 152.  at 899864
+==========|end  |temperature sub   received seq : 152.  at 900528
+==========|start|sensor timer publish  seq : 76.  at 904731
+==========|end  |action sub   received seq : 76.  at 905341
+==========|start|temperature timer publish  seq : 153.  at 907247
+==========|end  |temperature sub   received seq : 153.  at 907912
+==========|start|temperature timer publish  seq : 154.  at 909870
+==========|end  |temperature sub   received seq : 154.  at 910535
+==========|start|sensor timer publish  seq : 77.  at 914731
+==========|end  |action sub   received seq : 77.  at 915341
+==========|start|temperature timer publish  seq : 155.  at 917240
+==========|end  |temperature sub   received seq : 155.  at 917904
+==========|start|temperature timer publish  seq : 156.  at 919863
+==========|end  |temperature sub   received seq : 156.  at 920527
+==========|start|sensor timer publish  seq : 78.  at 924730
+==========|end  |action sub   received seq : 78.  at 925340
+==========|start|temperature timer publish  seq : 157.  at 927238
+==========|end  |temperature sub   received seq : 157.  at 927903
+==========|start|temperature timer publish  seq : 158.  at 929861
+==========|end  |temperature sub   received seq : 158.  at 930526
+==========|start|sensor timer publish  seq : 79.  at 934731
+==========|end  |action sub   received seq : 79.  at 935341
+==========|start|temperature timer publish  seq : 159.  at 937239
+==========|end  |temperature sub   received seq : 159.  at 937904
+==========|start|temperature timer publish  seq : 160.  at 939862
+==========|end  |temperature sub   received seq : 160.  at 940526
+==========|start|sensor timer publish  seq : 80.  at 944731
+==========|end  |action sub   received seq : 80.  at 945341
+==========|start|temperature timer publish  seq : 161.  at 947239
+==========|end  |temperature sub   received seq : 161.  at 947904
+==========|start|temperature timer publish  seq : 162.  at 949863
+==========|end  |temperature sub   received seq : 162.  at 950527
+==========|start|sensor timer publish  seq : 81.  at 954732
+==========|end  |action sub   received seq : 81.  at 955341
+==========|start|temperature timer publish  seq : 163.  at 957240
+==========|end  |temperature sub   received seq : 163.  at 957905
+==========|start|temperature timer publish  seq : 164.  at 959864
+==========|end  |temperature sub   received seq : 164.  at 960528
+==========|start|sensor timer publish  seq : 82.  at 964730
+==========|end  |action sub   received seq : 82.  at 965340
+==========|start|temperature timer publish  seq : 165.  at 967238
+==========|end  |temperature sub   received seq : 165.  at 967903
+==========|start|temperature timer publish  seq : 166.  at 969860
+==========|end  |temperature sub   received seq : 166.  at 970524
+==========|start|sensor timer publish  seq : 83.  at 974732
+==========|end  |action sub   received seq : 83.  at 975342
+==========|start|temperature timer publish  seq : 167.  at 977240
+==========|end  |temperature sub   received seq : 167.  at 977905
+==========|start|temperature timer publish  seq : 168.  at 979862
+==========|end  |temperature sub   received seq : 168.  at 980526
+==========|start|sensor timer publish  seq : 84.  at 984730
+==========|end  |action sub   received seq : 84.  at 985340
+==========|start|temperature timer publish  seq : 169.  at 987238
+==========|end  |temperature sub   received seq : 169.  at 987903
+==========|start|temperature timer publish  seq : 170.  at 989862
+==========|end  |temperature sub   received seq : 170.  at 990527
+==========|start|sensor timer publish  seq : 85.  at 994731
+==========|end  |action sub   received seq : 85.  at 995343
+==========|start|temperature timer publish  seq : 171.  at 997240
+==========|end  |temperature sub   received seq : 171.  at 997904
+==========|start|temperature timer publish  seq : 172.  at 999862
+==========|end  |temperature sub   received seq : 172.  at 1000526
+==========|start|sensor timer publish  seq : 86.  at 1004731
+==========|end  |action sub   received seq : 86.  at 1005347
+==========|start|temperature timer publish  seq : 173.  at 1007253
+==========|end  |temperature sub   received seq : 173.  at 1007927
+==========|start|temperature timer publish  seq : 174.  at 1009896
+==========|end  |temperature sub   received seq : 174.  at 1010570
+==========|start|sensor timer publish  seq : 87.  at 1014732
+==========|end  |action sub   received seq : 87.  at 1015351
+==========|start|temperature timer publish  seq : 175.  at 1017259
+==========|end  |temperature sub   received seq : 175.  at 1017934
+==========|start|temperature timer publish  seq : 176.  at 1019902
+==========|end  |temperature sub   received seq : 176.  at 1020576
+==========|start|sensor timer publish  seq : 88.  at 1024732
+==========|end  |action sub   received seq : 88.  at 1025349
+==========|start|temperature timer publish  seq : 177.  at 1027256
+==========|end  |temperature sub   received seq : 177.  at 1027931
+==========|start|temperature timer publish  seq : 178.  at 1029907
+==========|end  |temperature sub   received seq : 178.  at 1030581
+==========|start|sensor timer publish  seq : 89.  at 1034732
+==========|end  |action sub   received seq : 89.  at 1035352
+==========|start|temperature timer publish  seq : 179.  at 1037260
+==========|end  |temperature sub   received seq : 179.  at 1037934
+==========|start|temperature timer publish  seq : 180.  at 1039902
+==========|end  |temperature sub   received seq : 180.  at 1040576
+==========|start|sensor timer publish  seq : 90.  at 1044731
+==========|end  |action sub   received seq : 90.  at 1045350
+==========|start|temperature timer publish  seq : 181.  at 1047258
+==========|end  |temperature sub   received seq : 181.  at 1047932
+==========|start|temperature timer publish  seq : 182.  at 1049899
+==========|end  |temperature sub   received seq : 182.  at 1050573
+==========|start|sensor timer publish  seq : 91.  at 1054732
+==========|end  |action sub   received seq : 91.  at 1055351
+==========|start|temperature timer publish  seq : 183.  at 1057260
+==========|end  |temperature sub   received seq : 183.  at 1057934
+==========|start|temperature timer publish  seq : 184.  at 1059902
+==========|end  |temperature sub   received seq : 184.  at 1060576
+==========|start|sensor timer publish  seq : 92.  at 1064731
+==========|end  |action sub   received seq : 92.  at 1065350
+==========|start|temperature timer publish  seq : 185.  at 1067258
+==========|end  |temperature sub   received seq : 185.  at 1067933
+==========|start|temperature timer publish  seq : 186.  at 1069899
+==========|end  |temperature sub   received seq : 186.  at 1070573
+==========|start|sensor timer publish  seq : 93.  at 1074730
+==========|end  |action sub   received seq : 93.  at 1075349
+==========|start|temperature timer publish  seq : 187.  at 1077258
+==========|end  |temperature sub   received seq : 187.  at 1077932
+==========|start|temperature timer publish  seq : 188.  at 1079899
+==========|end  |temperature sub   received seq : 188.  at 1080573
+==========|start|sensor timer publish  seq : 94.  at 1084732
+==========|end  |action sub   received seq : 94.  at 1085352
+==========|start|temperature timer publish  seq : 189.  at 1087259
+==========|end  |temperature sub   received seq : 189.  at 1087933
+==========|start|temperature timer publish  seq : 190.  at 1089900
+==========|end  |temperature sub   received seq : 190.  at 1090574
+==========|start|sensor timer publish  seq : 95.  at 1094730
+==========|end  |action sub   received seq : 95.  at 1095349
+==========|start|temperature timer publish  seq : 191.  at 1097257
+==========|end  |temperature sub   received seq : 191.  at 1097931
+==========|start|temperature timer publish  seq : 192.  at 1099897
+==========|end  |temperature sub   received seq : 192.  at 1100571
+==========|start|sensor timer publish  seq : 96.  at 1104732
+==========|end  |action sub   received seq : 96.  at 1105349
+==========|start|temperature timer publish  seq : 193.  at 1107256
+==========|end  |temperature sub   received seq : 193.  at 1107930
+==========|start|temperature timer publish  seq : 194.  at 1109899
+==========|end  |temperature sub   received seq : 194.  at 1110573
+==========|start|sensor timer publish  seq : 97.  at 1114732
+==========|end  |action sub   received seq : 97.  at 1115352
+==========|start|temperature timer publish  seq : 195.  at 1117259
+==========|end  |temperature sub   received seq : 195.  at 1117933
+==========|start|temperature timer publish  seq : 196.  at 1119902
+==========|end  |temperature sub   received seq : 196.  at 1120576
+==========|start|sensor timer publish  seq : 98.  at 1124732
+==========|end  |action sub   received seq : 98.  at 1125351
+==========|start|temperature timer publish  seq : 197.  at 1127259
+==========|end  |temperature sub   received seq : 197.  at 1127934
+==========|start|temperature timer publish  seq : 198.  at 1129902
+==========|end  |temperature sub   received seq : 198.  at 1130576
+==========|start|sensor timer publish  seq : 99.  at 1134731
+==========|end  |action sub   received seq : 99.  at 1135348
+==========|start|temperature timer publish  seq : 199.  at 1137256
+==========|end  |temperature sub   received seq : 199.  at 1137931
+==========|start|temperature timer publish  seq : 200.  at 1139899
+==========|end  |temperature sub   received seq : 200.  at 1140573
+==========|start|sensor timer publish  seq : 100.  at 1144732
+==========|end  |action sub   received seq : 100.  at 1145359
+==========|start|temperature timer publish  seq : 201.  at 1147276
+==========|end  |temperature sub   received seq : 201.  at 1147951
+==========|start|temperature timer publish  seq : 202.  at 1149919
+==========|end  |temperature sub   received seq : 202.  at 1150593
+==========|start|sensor timer publish  seq : 101.  at 1154731
+==========|end  |action sub   received seq : 101.  at 1155360
+==========|start|temperature timer publish  seq : 203.  at 1157277
+==========|end  |temperature sub   received seq : 203.  at 1157951
+==========|start|temperature timer publish  seq : 204.  at 1159919
+==========|end  |temperature sub   received seq : 204.  at 1160593
+==========|start|sensor timer publish  seq : 102.  at 1164731
+==========|end  |action sub   received seq : 102.  at 1165360
+==========|start|temperature timer publish  seq : 205.  at 1167278
+==========|end  |temperature sub   received seq : 205.  at 1167952
+==========|start|temperature timer publish  seq : 206.  at 1169921
+==========|end  |temperature sub   received seq : 206.  at 1170595
+==========|start|sensor timer publish  seq : 103.  at 1174732
+==========|end  |action sub   received seq : 103.  at 1175360
+==========|start|temperature timer publish  seq : 207.  at 1177277
+==========|end  |temperature sub   received seq : 207.  at 1177952
+==========|start|temperature timer publish  seq : 208.  at 1179920
+==========|end  |temperature sub   received seq : 208.  at 1180594
+==========|start|sensor timer publish  seq : 104.  at 1184731
+==========|end  |action sub   received seq : 104.  at 1185360
+==========|start|temperature timer publish  seq : 209.  at 1187276
+==========|end  |temperature sub   received seq : 209.  at 1187950
+==========|start|temperature timer publish  seq : 210.  at 1189919
+==========|end  |temperature sub   received seq : 210.  at 1190593
+==========|start|sensor timer publish  seq : 105.  at 1194731
+==========|end  |action sub   received seq : 105.  at 1195360
+==========|start|temperature timer publish  seq : 211.  at 1197278
+==========|end  |temperature sub   received seq : 211.  at 1197952
+==========|start|temperature timer publish  seq : 212.  at 1199920
+==========|end  |temperature sub   received seq : 212.  at 1200594
+==========|start|sensor timer publish  seq : 106.  at 1204730
+==========|end  |action sub   received seq : 106.  at 1205359
+==========|start|temperature timer publish  seq : 213.  at 1207275
+==========|end  |temperature sub   received seq : 213.  at 1207949
+==========|start|temperature timer publish  seq : 214.  at 1209917
+==========|end  |temperature sub   received seq : 214.  at 1210591
+==========|start|sensor timer publish  seq : 107.  at 1214732
+==========|end  |action sub   received seq : 107.  at 1215361
+==========|start|temperature timer publish  seq : 215.  at 1217278
+==========|end  |temperature sub   received seq : 215.  at 1217952
+==========|start|temperature timer publish  seq : 216.  at 1219920
+==========|end  |temperature sub   received seq : 216.  at 1220594
+==========|start|sensor timer publish  seq : 108.  at 1224730
+==========|end  |action sub   received seq : 108.  at 1225359
+==========|start|temperature timer publish  seq : 217.  at 1227277
+==========|end  |temperature sub   received seq : 217.  at 1227952
+==========|start|temperature timer publish  seq : 218.  at 1229920
+==========|end  |temperature sub   received seq : 218.  at 1230594
+==========|start|sensor timer publish  seq : 109.  at 1234731
+==========|end  |action sub   received seq : 109.  at 1235360
+==========|start|temperature timer publish  seq : 219.  at 1237276
+==========|end  |temperature sub   received seq : 219.  at 1237950
+==========|start|temperature timer publish  seq : 220.  at 1239919
+==========|end  |temperature sub   received seq : 220.  at 1240593
+==========|start|sensor timer publish  seq : 110.  at 1244731
+==========|end  |action sub   received seq : 110.  at 1245360
+==========|start|temperature timer publish  seq : 221.  at 1247277
+==========|end  |temperature sub   received seq : 221.  at 1247951
+==========|start|temperature timer publish  seq : 222.  at 1249920
+==========|end  |temperature sub   received seq : 222.  at 1250594
+==========|start|sensor timer publish  seq : 111.  at 1254732
+==========|end  |action sub   received seq : 111.  at 1255360
+==========|start|temperature timer publish  seq : 223.  at 1257278
+==========|end  |temperature sub   received seq : 223.  at 1257953
+==========|start|temperature timer publish  seq : 224.  at 1259921
+==========|end  |temperature sub   received seq : 224.  at 1260595
+==========|start|sensor timer publish  seq : 112.  at 1264732
+==========|end  |action sub   received seq : 112.  at 1265358
+==========|start|temperature timer publish  seq : 225.  at 1267275
+==========|end  |temperature sub   received seq : 225.  at 1267949
+==========|start|temperature timer publish  seq : 226.  at 1269917
+==========|end  |temperature sub   received seq : 226.  at 1270591
+==========|start|sensor timer publish  seq : 113.  at 1274731
+==========|end  |action sub   received seq : 113.  at 1275360
+==========|start|temperature timer publish  seq : 227.  at 1277278
+==========|end  |temperature sub   received seq : 227.  at 1277952
+==========|start|temperature timer publish  seq : 228.  at 1279921
+==========|end  |temperature sub   received seq : 228.  at 1280595
+==========|start|sensor timer publish  seq : 114.  at 1284732
+==========|end  |action sub   received seq : 114.  at 1285360
+==========|start|temperature timer publish  seq : 229.  at 1287278
+==========|end  |temperature sub   received seq : 229.  at 1287953
+==========|start|temperature timer publish  seq : 230.  at 1289921
+==========|end  |temperature sub   received seq : 230.  at 1290595
+==========|start|sensor timer publish  seq : 115.  at 1294731
+==========|end  |action sub   received seq : 115.  at 1295357
+==========|start|temperature timer publish  seq : 231.  at 1297275
+==========|end  |temperature sub   received seq : 231.  at 1297950
+==========|start|temperature timer publish  seq : 232.  at 1299918
+==========|end  |temperature sub   received seq : 232.  at 1300592
+==========|start|sensor timer publish  seq : 116.  at 1304732
+==========|end  |action sub   received seq : 116.  at 1305358
+==========|start|temperature timer publish  seq : 233.  at 1307276
+==========|end  |temperature sub   received seq : 233.  at 1307951
+==========|start|temperature timer publish  seq : 234.  at 1309919
+==========|end  |temperature sub   received seq : 234.  at 1310593
+==========|start|sensor timer publish  seq : 117.  at 1314732
+==========|end  |action sub   received seq : 117.  at 1315361
+==========|start|temperature timer publish  seq : 235.  at 1317277
+==========|end  |temperature sub   received seq : 235.  at 1317951
+==========|start|temperature timer publish  seq : 236.  at 1319918
+==========|end  |temperature sub   received seq : 236.  at 1320592
+==========|start|sensor timer publish  seq : 118.  at 1324732
+==========|end  |action sub   received seq : 118.  at 1325361
+==========|start|temperature timer publish  seq : 237.  at 1327287
+==========|end  |temperature sub   received seq : 237.  at 1327962
+==========|start|temperature timer publish  seq : 238.  at 1329939
+==========|end  |temperature sub   received seq : 238.  at 1330613
+==========|start|sensor timer publish  seq : 119.  at 1334731
+==========|end  |action sub   received seq : 119.  at 1335359
+==========|start|temperature timer publish  seq : 239.  at 1337277
+==========|end  |temperature sub   received seq : 239.  at 1337952
+==========|start|temperature timer publish  seq : 240.  at 1339920
+==========|end  |temperature sub   received seq : 240.  at 1340594
+==========|start|sensor timer publish  seq : 120.  at 1344731
+==========|end  |action sub   received seq : 120.  at 1345360
+==========|start|temperature timer publish  seq : 241.  at 1347276
+==========|end  |temperature sub   received seq : 241.  at 1347950
+==========|start|temperature timer publish  seq : 242.  at 1349919
+==========|end  |temperature sub   received seq : 242.  at 1350593
+==========|start|sensor timer publish  seq : 121.  at 1354731
+==========|end  |action sub   received seq : 121.  at 1355360
+==========|start|temperature timer publish  seq : 243.  at 1357278
+==========|end  |temperature sub   received seq : 243.  at 1357952
+==========|start|temperature timer publish  seq : 244.  at 1359921
+==========|end  |temperature sub   received seq : 244.  at 1360595
+==========|start|sensor timer publish  seq : 122.  at 1364731
+==========|end  |action sub   received seq : 122.  at 1365360
+==========|start|temperature timer publish  seq : 245.  at 1367277
+==========|end  |temperature sub   received seq : 245.  at 1367952
+==========|start|temperature timer publish  seq : 246.  at 1369920
+==========|end  |temperature sub   received seq : 246.  at 1370594
+==========|start|sensor timer publish  seq : 123.  at 1374731
+==========|end  |action sub   received seq : 123.  at 1375360
+==========|start|temperature timer publish  seq : 247.  at 1377277
+==========|end  |temperature sub   received seq : 247.  at 1377951
+==========|start|temperature timer publish  seq : 248.  at 1379918
+==========|end  |temperature sub   received seq : 248.  at 1380592
+==========|start|sensor timer publish  seq : 124.  at 1384731
+==========|end  |action sub   received seq : 124.  at 1385357
+==========|start|temperature timer publish  seq : 249.  at 1387275
+==========|end  |temperature sub   received seq : 249.  at 1387950
+==========|start|temperature timer publish  seq : 250.  at 1389918
+==========|end  |temperature sub   received seq : 250.  at 1390592
+==========|start|sensor timer publish  seq : 125.  at 1394731
+==========|end  |action sub   received seq : 125.  at 1395360
+==========|start|temperature timer publish  seq : 251.  at 1397278
+==========|end  |temperature sub   received seq : 251.  at 1397953
+==========|start|temperature timer publish  seq : 252.  at 1399921
+==========|end  |temperature sub   received seq : 252.  at 1400595
+==========|start|sensor timer publish  seq : 126.  at 1404739
+==========|end  |action sub   received seq : 126.  at 1405368
+==========|start|temperature timer publish  seq : 253.  at 1407286
+==========|end  |temperature sub   received seq : 253.  at 1407961
+==========|start|temperature timer publish  seq : 254.  at 1409937
+==========|end  |temperature sub   received seq : 254.  at 1410613
+==========|start|sensor timer publish  seq : 127.  at 1414739
+==========|end  |action sub   received seq : 127.  at 1415370
+==========|start|temperature timer publish  seq : 255.  at 1417287
+==========|end  |temperature sub   received seq : 255.  at 1417961
+==========|start|temperature timer publish  seq : 256.  at 1419930
+==========|end  |temperature sub   received seq : 256.  at 1420604
+==========|start|sensor timer publish  seq : 128.  at 1424731
+==========|end  |action sub   received seq : 128.  at 1425360
+==========|start|temperature timer publish  seq : 257.  at 1427276
+==========|end  |temperature sub   received seq : 257.  at 1427950
+==========|start|temperature timer publish  seq : 258.  at 1429917
+==========|end  |temperature sub   received seq : 258.  at 1430591
+==========|start|sensor timer publish  seq : 129.  at 1434732
+==========|end  |action sub   received seq : 129.  at 1435361
+==========|start|temperature timer publish  seq : 259.  at 1437279
+==========|end  |temperature sub   received seq : 259.  at 1437953
+==========|start|temperature timer publish  seq : 260.  at 1439921
+==========|end  |temperature sub   received seq : 260.  at 1440595
+==========|start|sensor timer publish  seq : 130.  at 1444732
+==========|end  |action sub   received seq : 130.  at 1445361
+==========|start|temperature timer publish  seq : 261.  at 1447279
+==========|end  |temperature sub   received seq : 261.  at 1447953
+==========|start|temperature timer publish  seq : 262.  at 1449922
+==========|end  |temperature sub   received seq : 262.  at 1450596
+==========|start|sensor timer publish  seq : 131.  at 1454732
+==========|end  |action sub   received seq : 131.  at 1455361
+==========|start|temperature timer publish  seq : 263.  at 1457278
+==========|end  |temperature sub   received seq : 263.  at 1457952
+==========|start|temperature timer publish  seq : 264.  at 1459920
+==========|end  |temperature sub   received seq : 264.  at 1460594
+==========|start|sensor timer publish  seq : 132.  at 1464732
+==========|end  |action sub   received seq : 132.  at 1465358
+==========|start|temperature timer publish  seq : 265.  at 1467276
+==========|end  |temperature sub   received seq : 265.  at 1467951
+==========|start|temperature timer publish  seq : 266.  at 1469919
+==========|end  |temperature sub   received seq : 266.  at 1470593
+==========|start|sensor timer publish  seq : 133.  at 1474732
+==========|end  |action sub   received seq : 133.  at 1475360
+==========|start|temperature timer publish  seq : 267.  at 1477287
+==========|end  |temperature sub   received seq : 267.  at 1477961
+==========|start|temperature timer publish  seq : 268.  at 1479930
+==========|end  |temperature sub   received seq : 268.  at 1480604
+==========|start|sensor timer publish  seq : 134.  at 1484730
+==========|end  |action sub   received seq : 134.  at 1485359
+==========|start|temperature timer publish  seq : 269.  at 1487277
+==========|end  |temperature sub   received seq : 269.  at 1487951
+==========|start|temperature timer publish  seq : 270.  at 1489919
+==========|end  |temperature sub   received seq : 270.  at 1490593
+==========|start|sensor timer publish  seq : 135.  at 1494732
+==========|end  |action sub   received seq : 135.  at 1495361
+==========|start|temperature timer publish  seq : 271.  at 1497279
+==========|end  |temperature sub   received seq : 271.  at 1497953
+==========|start|temperature timer publish  seq : 272.  at 1499920
+==========|end  |temperature sub   received seq : 272.  at 1500594
+==========|start|sensor timer publish  seq : 136.  at 1504731
+==========|end  |action sub   received seq : 136.  at 1505360
+==========|start|temperature timer publish  seq : 273.  at 1507278
+==========|end  |temperature sub   received seq : 273.  at 1507953
+==========|start|temperature timer publish  seq : 274.  at 1509921
+==========|end  |temperature sub   received seq : 274.  at 1510595
+==========|start|sensor timer publish  seq : 137.  at 1514731
+==========|end  |action sub   received seq : 137.  at 1515360
+==========|start|temperature timer publish  seq : 275.  at 1517278
+==========|end  |temperature sub   received seq : 275.  at 1517954
+==========|start|temperature timer publish  seq : 276.  at 1519922
+==========|end  |temperature sub   received seq : 276.  at 1520596
+==========|start|sensor timer publish  seq : 138.  at 1524731
+==========|end  |action sub   received seq : 138.  at 1525359
+==========|start|temperature timer publish  seq : 277.  at 1527276
+==========|end  |temperature sub   received seq : 277.  at 1527951
+==========|start|temperature timer publish  seq : 278.  at 1529919
+==========|end  |temperature sub   received seq : 278.  at 1530593
+==========|start|sensor timer publish  seq : 139.  at 1534732
+==========|end  |action sub   received seq : 139.  at 1535361
+==========|start|temperature timer publish  seq : 279.  at 1537277
+==========|end  |temperature sub   received seq : 279.  at 1537951
+==========|start|temperature timer publish  seq : 280.  at 1539920
+==========|end  |temperature sub   received seq : 280.  at 1540594
+==========|start|sensor timer publish  seq : 140.  at 1544732
+==========|end  |action sub   received seq : 140.  at 1545361
+==========|start|temperature timer publish  seq : 281.  at 1547279
+==========|end  |temperature sub   received seq : 281.  at 1547953
+==========|start|temperature timer publish  seq : 282.  at 1549920
+==========|end  |temperature sub   received seq : 282.  at 1550594
+==========|start|sensor timer publish  seq : 141.  at 1554731
+==========|end  |action sub   received seq : 141.  at 1555360
+==========|start|temperature timer publish  seq : 283.  at 1557277
+==========|end  |temperature sub   received seq : 283.  at 1557952
+==========|start|temperature timer publish  seq : 284.  at 1559920
+==========|end  |temperature sub   received seq : 284.  at 1560594
+==========|start|sensor timer publish  seq : 142.  at 1564731
+==========|end  |action sub   received seq : 142.  at 1565360
+==========|start|temperature timer publish  seq : 285.  at 1567277
+==========|end  |temperature sub   received seq : 285.  at 1567951
+==========|start|temperature timer publish  seq : 286.  at 1569919
+==========|end  |temperature sub   received seq : 286.  at 1570593
+==========|start|sensor timer publish  seq : 143.  at 1574730
+==========|end  |action sub   received seq : 143.  at 1575358
+==========|start|temperature timer publish  seq : 287.  at 1577276
+==========|end  |temperature sub   received seq : 287.  at 1577951
+==========|start|temperature timer publish  seq : 288.  at 1579919
+==========|end  |temperature sub   received seq : 288.  at 1580593
+==========|start|sensor timer publish  seq : 144.  at 1584732
+==========|end  |action sub   received seq : 144.  at 1585360
+==========|start|temperature timer publish  seq : 289.  at 1587278
+==========|end  |temperature sub   received seq : 289.  at 1587953
+==========|start|temperature timer publish  seq : 290.  at 1589919
+==========|end  |temperature sub   received seq : 290.  at 1590593
+==========|start|sensor timer publish  seq : 145.  at 1594731
+==========|end  |action sub   received seq : 145.  at 1595360
+==========|start|temperature timer publish  seq : 291.  at 1597277
+==========|end  |temperature sub   received seq : 291.  at 1597951
+==========|start|temperature timer publish  seq : 292.  at 1599920
+==========|end  |temperature sub   received seq : 292.  at 1600594
+==========|start|sensor timer publish  seq : 146.  at 1604731
+==========|end  |action sub   received seq : 146.  at 1605360
+==========|start|temperature timer publish  seq : 293.  at 1607277
+==========|end  |temperature sub   received seq : 293.  at 1607952
+==========|start|temperature timer publish  seq : 294.  at 1609920
+==========|end  |temperature sub   received seq : 294.  at 1610594
+==========|start|sensor timer publish  seq : 147.  at 1614730
+==========|end  |action sub   received seq : 147.  at 1615359
+==========|start|temperature timer publish  seq : 295.  at 1617276
+==========|end  |temperature sub   received seq : 295.  at 1617950
+==========|start|temperature timer publish  seq : 296.  at 1619917
+==========|end  |temperature sub   received seq : 296.  at 1620591
+==========|start|sensor timer publish  seq : 148.  at 1624732
+==========|end  |action sub   received seq : 148.  at 1625361
+==========|start|temperature timer publish  seq : 297.  at 1627279
+==========|end  |temperature sub   received seq : 297.  at 1627953
+==========|start|temperature timer publish  seq : 298.  at 1629920
+==========|end  |temperature sub   received seq : 298.  at 1630594
+==========|start|sensor timer publish  seq : 149.  at 1634730
+==========|end  |action sub   received seq : 149.  at 1635359
+==========|start|temperature timer publish  seq : 299.  at 1637277
+==========|end  |temperature sub   received seq : 299.  at 1637952
+==========|start|temperature timer publish  seq : 300.  at 1639920
+==========|end  |temperature sub   received seq : 300.  at 1640594
+==========|start|sensor timer publish  seq : 150.  at 1644731
+==========|end  |action sub   received seq : 150.  at 1645360
+==========|start|temperature timer publish  seq : 301.  at 1647276
+==========|end  |temperature sub   received seq : 301.  at 1647950
+==========|start|temperature timer publish  seq : 302.  at 1649919
+==========|end  |temperature sub   received seq : 302.  at 1650593
+==========|start|sensor timer publish  seq : 151.  at 1654731
+==========|end  |action sub   received seq : 151.  at 1655360
+==========|start|temperature timer publish  seq : 303.  at 1657278
+==========|end  |temperature sub   received seq : 303.  at 1657952
+==========|start|temperature timer publish  seq : 304.  at 1659921
+==========|end  |temperature sub   received seq : 304.  at 1660595
+==========|start|sensor timer publish  seq : 152.  at 1664732
+==========|end  |action sub   received seq : 152.  at 1665360
+==========|start|temperature timer publish  seq : 305.  at 1667278
+==========|end  |temperature sub   received seq : 305.  at 1667953
+==========|start|temperature timer publish  seq : 306.  at 1669921
+==========|end  |temperature sub   received seq : 306.  at 1670595
+==========|start|sensor timer publish  seq : 153.  at 1674732
+==========|end  |action sub   received seq : 153.  at 1675358
+==========|start|temperature timer publish  seq : 307.  at 1677275
+==========|end  |temperature sub   received seq : 307.  at 1677949
+==========|start|temperature timer publish  seq : 308.  at 1679918
+==========|end  |temperature sub   received seq : 308.  at 1680592
+==========|start|sensor timer publish  seq : 154.  at 1684731
+==========|end  |action sub   received seq : 154.  at 1685357
+==========|start|temperature timer publish  seq : 309.  at 1687276
+==========|end  |temperature sub   received seq : 309.  at 1687951
+==========|start|temperature timer publish  seq : 310.  at 1689919
+==========|end  |temperature sub   received seq : 310.  at 1690593
+==========|start|sensor timer publish  seq : 155.  at 1694732
+==========|end  |action sub   received seq : 155.  at 1695361
+==========|start|temperature timer publish  seq : 311.  at 1697278
+==========|end  |temperature sub   received seq : 311.  at 1697953
+==========|start|temperature timer publish  seq : 312.  at 1699921
+==========|end  |temperature sub   received seq : 312.  at 1700595
+==========|start|sensor timer publish  seq : 156.  at 1704732
+==========|end  |action sub   received seq : 156.  at 1705358
+==========|start|temperature timer publish  seq : 313.  at 1707274
+==========|end  |temperature sub   received seq : 313.  at 1707949
+==========|start|temperature timer publish  seq : 314.  at 1709915
+==========|end  |temperature sub   received seq : 314.  at 1710589
+==========|start|sensor timer publish  seq : 157.  at 1714732
+==========|end  |action sub   received seq : 157.  at 1715361
+==========|start|temperature timer publish  seq : 315.  at 1717279
+==========|end  |temperature sub   received seq : 315.  at 1717953
+==========|start|temperature timer publish  seq : 316.  at 1719922
+==========|end  |temperature sub   received seq : 316.  at 1720596
+==========|start|sensor timer publish  seq : 158.  at 1724731
+==========|end  |action sub   received seq : 158.  at 1725360
+==========|start|temperature timer publish  seq : 317.  at 1727277
+==========|end  |temperature sub   received seq : 317.  at 1727951
+==========|start|temperature timer publish  seq : 318.  at 1729917
+==========|end  |temperature sub   received seq : 318.  at 1730591
+==========|start|sensor timer publish  seq : 159.  at 1734732
+==========|end  |action sub   received seq : 159.  at 1735361
+==========|start|temperature timer publish  seq : 319.  at 1737279
+==========|end  |temperature sub   received seq : 319.  at 1737953
+==========|start|temperature timer publish  seq : 320.  at 1739920
+==========|end  |temperature sub   received seq : 320.  at 1740594
+==========|start|sensor timer publish  seq : 160.  at 1744729
+==========|end  |action sub   received seq : 160.  at 1745358
+==========|start|temperature timer publish  seq : 321.  at 1747276
+==========|end  |temperature sub   received seq : 321.  at 1747951
+==========|start|temperature timer publish  seq : 322.  at 1749919
+==========|end  |temperature sub   received seq : 322.  at 1750593
+==========|start|sensor timer publish  seq : 161.  at 1754731
+==========|end  |action sub   received seq : 161.  at 1755360
+==========|start|temperature timer publish  seq : 323.  at 1757276
+==========|end  |temperature sub   received seq : 323.  at 1757950
+==========|start|temperature timer publish  seq : 324.  at 1759919
+==========|end  |temperature sub   received seq : 324.  at 1760593
+==========|start|sensor timer publish  seq : 162.  at 1764731
+==========|end  |action sub   received seq : 162.  at 1765360
+==========|start|temperature timer publish  seq : 325.  at 1767278
+==========|end  |temperature sub   received seq : 325.  at 1767952
+==========|start|temperature timer publish  seq : 326.  at 1769921
+==========|end  |temperature sub   received seq : 326.  at 1770595
+==========|start|sensor timer publish  seq : 163.  at 1774732
+==========|end  |action sub   received seq : 163.  at 1775360
+==========|start|temperature timer publish  seq : 327.  at 1777278
+==========|end  |temperature sub   received seq : 327.  at 1777953
+==========|start|temperature timer publish  seq : 328.  at 1779921
+==========|end  |temperature sub   received seq : 328.  at 1780595
+==========|start|sensor timer publish  seq : 164.  at 1784732
+==========|end  |action sub   received seq : 164.  at 1785358
+==========|start|temperature timer publish  seq : 329.  at 1787274
+==========|end  |temperature sub   received seq : 329.  at 1787949
+==========|start|temperature timer publish  seq : 330.  at 1789917
+==========|end  |temperature sub   received seq : 330.  at 1790591
+==========|start|sensor timer publish  seq : 165.  at 1794731
+==========|end  |action sub   received seq : 165.  at 1795360
+==========|start|temperature timer publish  seq : 331.  at 1797277
+==========|end  |temperature sub   received seq : 331.  at 1797952
+==========|start|temperature timer publish  seq : 332.  at 1799920
+==========|end  |temperature sub   received seq : 332.  at 1800594
+==========|start|sensor timer publish  seq : 166.  at 1804731
+==========|end  |action sub   received seq : 166.  at 1805360
+==========|start|temperature timer publish  seq : 333.  at 1807278
+==========|end  |temperature sub   received seq : 333.  at 1807953
+==========|start|temperature timer publish  seq : 334.  at 1809921
+==========|end  |temperature sub   received seq : 334.  at 1810595
+==========|start|sensor timer publish  seq : 167.  at 1814731
+==========|end  |action sub   received seq : 167.  at 1815360
+==========|start|temperature timer publish  seq : 335.  at 1817277
+==========|end  |temperature sub   received seq : 335.  at 1817951
+==========|start|temperature timer publish  seq : 336.  at 1819920
+==========|end  |temperature sub   received seq : 336.  at 1820594
+==========|start|sensor timer publish  seq : 168.  at 1824731
+==========|end  |action sub   received seq : 168.  at 1825359
+==========|start|temperature timer publish  seq : 337.  at 1827277
+==========|end  |temperature sub   received seq : 337.  at 1827952
+==========|start|temperature timer publish  seq : 338.  at 1829918
+==========|end  |temperature sub   received seq : 338.  at 1830592
+==========|start|sensor timer publish  seq : 169.  at 1834730
+==========|end  |action sub   received seq : 169.  at 1835359
+==========|start|temperature timer publish  seq : 339.  at 1837276
+==========|end  |temperature sub   received seq : 339.  at 1837950
+==========|start|temperature timer publish  seq : 340.  at 1839917
+==========|end  |temperature sub   received seq : 340.  at 1840591
+==========|start|sensor timer publish  seq : 170.  at 1844731
+==========|end  |action sub   received seq : 170.  at 1845360
+==========|start|temperature timer publish  seq : 341.  at 1847278
+==========|end  |temperature sub   received seq : 341.  at 1847952
+==========|start|temperature timer publish  seq : 342.  at 1849920
+==========|end  |temperature sub   received seq : 342.  at 1850594
+==========|start|sensor timer publish  seq : 171.  at 1854729
+==========|end  |action sub   received seq : 171.  at 1855358
+==========|start|temperature timer publish  seq : 343.  at 1857275
+==========|end  |temperature sub   received seq : 343.  at 1857949
+==========|start|temperature timer publish  seq : 344.  at 1859917
+==========|end  |temperature sub   received seq : 344.  at 1860593
+==========|start|sensor timer publish  seq : 172.  at 1864731
+==========|end  |action sub   received seq : 172.  at 1865360
+==========|start|temperature timer publish  seq : 345.  at 1867278
+==========|end  |temperature sub   received seq : 345.  at 1867952
+==========|start|temperature timer publish  seq : 346.  at 1869920
+==========|end  |temperature sub   received seq : 346.  at 1870594
+==========|start|sensor timer publish  seq : 173.  at 1874732
+==========|end  |action sub   received seq : 173.  at 1875358
+==========|start|temperature timer publish  seq : 347.  at 1877276
+==========|end  |temperature sub   received seq : 347.  at 1877951
+==========|start|temperature timer publish  seq : 348.  at 1879918
+==========|end  |temperature sub   received seq : 348.  at 1880592
+==========|start|sensor timer publish  seq : 174.  at 1884731
+==========|end  |action sub   received seq : 174.  at 1885360
+==========|start|temperature timer publish  seq : 349.  at 1887276
+==========|end  |temperature sub   received seq : 349.  at 1887950
+==========|start|temperature timer publish  seq : 350.  at 1889919
+==========|end  |temperature sub   received seq : 350.  at 1890593
+==========|start|sensor timer publish  seq : 175.  at 1894731
+==========|end  |action sub   received seq : 175.  at 1895360
+==========|start|temperature timer publish  seq : 351.  at 1897278
+==========|end  |temperature sub   received seq : 351.  at 1897952
+==========|start|temperature timer publish  seq : 352.  at 1899920
+==========|end  |temperature sub   received seq : 352.  at 1900594
+==========|start|sensor timer publish  seq : 176.  at 1904731
+==========|end  |action sub   received seq : 176.  at 1905360
+==========|start|temperature timer publish  seq : 353.  at 1907278
+==========|end  |temperature sub   received seq : 353.  at 1907952
+==========|start|temperature timer publish  seq : 354.  at 1909920
+==========|end  |temperature sub   received seq : 354.  at 1910594
+==========|start|sensor timer publish  seq : 177.  at 1914731
+==========|end  |action sub   received seq : 177.  at 1915360
+==========|start|temperature timer publish  seq : 355.  at 1917278
+==========|end  |temperature sub   received seq : 355.  at 1917953
+==========|start|temperature timer publish  seq : 356.  at 1919921
+==========|end  |temperature sub   received seq : 356.  at 1920595
+==========|start|sensor timer publish  seq : 178.  at 1924731
+==========|end  |action sub   received seq : 178.  at 1925360
+==========|start|temperature timer publish  seq : 357.  at 1927277
+==========|end  |temperature sub   received seq : 357.  at 1927951
+==========|start|temperature timer publish  seq : 358.  at 1929920
+==========|end  |temperature sub   received seq : 358.  at 1930594
+==========|start|sensor timer publish  seq : 179.  at 1934731
+==========|end  |action sub   received seq : 179.  at 1935359
+==========|start|temperature timer publish  seq : 359.  at 1937277
+==========|end  |temperature sub   received seq : 359.  at 1937952
+==========|start|temperature timer publish  seq : 360.  at 1939918
+==========|end  |temperature sub   received seq : 360.  at 1940592
+==========|start|sensor timer publish  seq : 180.  at 1944732
+==========|end  |action sub   received seq : 180.  at 1945361
+==========|start|temperature timer publish  seq : 361.  at 1947277
+==========|end  |temperature sub   received seq : 361.  at 1947951
+==========|start|temperature timer publish  seq : 362.  at 1949920
+==========|end  |temperature sub   received seq : 362.  at 1950594
+==========|start|sensor timer publish  seq : 181.  at 1954740
+==========|end  |action sub   received seq : 181.  at 1955366
+==========|start|temperature timer publish  seq : 363.  at 1957282
+==========|end  |temperature sub   received seq : 363.  at 1957957
+==========|start|temperature timer publish  seq : 364.  at 1959925
+==========|end  |temperature sub   received seq : 364.  at 1960599
+==========|start|sensor timer publish  seq : 182.  at 1964730
+==========|end  |action sub   received seq : 182.  at 1965359
+==========|start|temperature timer publish  seq : 365.  at 1967276
+==========|end  |temperature sub   received seq : 365.  at 1967950
+==========|start|temperature timer publish  seq : 366.  at 1969918
+==========|end  |temperature sub   received seq : 366.  at 1970592
+==========|start|sensor timer publish  seq : 183.  at 1974732
+==========|end  |action sub   received seq : 183.  at 1975361
+==========|start|temperature timer publish  seq : 367.  at 1977278
+==========|end  |temperature sub   received seq : 367.  at 1977952
+==========|start|temperature timer publish  seq : 368.  at 1979919
+==========|end  |temperature sub   received seq : 368.  at 1980593
+==========|start|sensor timer publish  seq : 184.  at 1984731
+==========|end  |action sub   received seq : 184.  at 1985360
+==========|start|temperature timer publish  seq : 369.  at 1987277
+==========|end  |temperature sub   received seq : 369.  at 1987951
+==========|start|temperature timer publish  seq : 370.  at 1989920
+==========|end  |temperature sub   received seq : 370.  at 1990594
+==========|start|sensor timer publish  seq : 185.  at 1994731
+==========|end  |action sub   received seq : 185.  at 1995360
+==========|start|temperature timer publish  seq : 371.  at 1997276
+==========|end  |temperature sub   received seq : 371.  at 1997950
+==========|start|temperature timer publish  seq : 372.  at 1999918
+==========|end  |temperature sub   received seq : 372.  at 2000592
+==========|start|sensor timer publish  seq : 186.  at 2004730
+==========|end  |action sub   received seq : 186.  at 2005359
+==========|start|temperature timer publish  seq : 373.  at 2007277
+==========|end  |temperature sub   received seq : 373.  at 2007951
+==========|start|temperature timer publish  seq : 374.  at 2009919
+==========|end  |temperature sub   received seq : 374.  at 2010593
+==========|start|sensor timer publish  seq : 187.  at 2014731
+==========|end  |action sub   received seq : 187.  at 2015360
+==========|start|temperature timer publish  seq : 375.  at 2017278
+==========|end  |temperature sub   received seq : 375.  at 2017952
+==========|start|temperature timer publish  seq : 376.  at 2019920
+==========|end  |temperature sub   received seq : 376.  at 2020594
+==========|start|sensor timer publish  seq : 188.  at 2024731
+==========|end  |action sub   received seq : 188.  at 2025360
+==========|start|temperature timer publish  seq : 377.  at 2027278
+==========|end  |temperature sub   received seq : 377.  at 2027953
+==========|start|temperature timer publish  seq : 378.  at 2029921
+==========|end  |temperature sub   received seq : 378.  at 2030595
+==========|start|sensor timer publish  seq : 189.  at 2034731
+==========|end  |action sub   received seq : 189.  at 2035360
+==========|start|temperature timer publish  seq : 379.  at 2037278
+==========|end  |temperature sub   received seq : 379.  at 2037952
+==========|start|temperature timer publish  seq : 380.  at 2039929
+==========|end  |temperature sub   received seq : 380.  at 2040603
+==========|start|sensor timer publish  seq : 190.  at 2044731
+==========|end  |action sub   received seq : 190.  at 2045359
+==========|start|temperature timer publish  seq : 381.  at 2047277
+==========|end  |temperature sub   received seq : 381.  at 2047952
+==========|start|temperature timer publish  seq : 382.  at 2049919
+==========|end  |temperature sub   received seq : 382.  at 2050593
+==========|start|sensor timer publish  seq : 191.  at 2054731
+==========|end  |action sub   received seq : 191.  at 2055360
+==========|start|temperature timer publish  seq : 383.  at 2057276
+==========|end  |temperature sub   received seq : 383.  at 2057950
+==========|start|temperature timer publish  seq : 384.  at 2059919
+==========|end  |temperature sub   received seq : 384.  at 2060593
+==========|start|sensor timer publish  seq : 192.  at 2064731
+==========|end  |action sub   received seq : 192.  at 2065360
+==========|start|temperature timer publish  seq : 385.  at 2067278
+==========|end  |temperature sub   received seq : 385.  at 2067952
+==========|start|temperature timer publish  seq : 386.  at 2069919
+==========|end  |temperature sub   received seq : 386.  at 2070593
+==========|start|sensor timer publish  seq : 193.  at 2074732
+==========|end  |action sub   received seq : 193.  at 2075360
+==========|start|temperature timer publish  seq : 387.  at 2077278
+==========|end  |temperature sub   received seq : 387.  at 2077953
+==========|start|temperature timer publish  seq : 388.  at 2079921
+==========|end  |temperature sub   received seq : 388.  at 2080595
+==========|start|sensor timer publish  seq : 194.  at 2084732
+==========|end  |action sub   received seq : 194.  at 2085358
+==========|start|temperature timer publish  seq : 389.  at 2087275
+==========|end  |temperature sub   received seq : 389.  at 2087949
+==========|start|temperature timer publish  seq : 390.  at 2089918
+==========|end  |temperature sub   received seq : 390.  at 2090592
+==========|start|sensor timer publish  seq : 195.  at 2094732
+==========|end  |action sub   received seq : 195.  at 2095358
+==========|start|temperature timer publish  seq : 391.  at 2097276
+==========|end  |temperature sub   received seq : 391.  at 2097951
+==========|start|temperature timer publish  seq : 392.  at 2099919
+==========|end  |temperature sub   received seq : 392.  at 2100593
+==========|start|sensor timer publish  seq : 196.  at 2104732
+==========|end  |action sub   received seq : 196.  at 2105361
+==========|start|temperature timer publish  seq : 393.  at 2107277
+==========|end  |temperature sub   received seq : 393.  at 2107952
+==========|start|temperature timer publish  seq : 394.  at 2109920
+==========|end  |temperature sub   received seq : 394.  at 2110594
+==========|start|sensor timer publish  seq : 197.  at 2114732
+==========|end  |action sub   received seq : 197.  at 2115361
+==========|start|temperature timer publish  seq : 395.  at 2117278
+==========|end  |temperature sub   received seq : 395.  at 2117952
+==========|start|temperature timer publish  seq : 396.  at 2119921
+==========|end  |temperature sub   received seq : 396.  at 2120595
+==========|start|sensor timer publish  seq : 198.  at 2124732
+==========|end  |action sub   received seq : 198.  at 2125361
+==========|start|temperature timer publish  seq : 397.  at 2127279
+==========|end  |temperature sub   received seq : 397.  at 2127953
+==========|start|temperature timer publish  seq : 398.  at 2129921
+==========|end  |temperature sub   received seq : 398.  at 2130595
+==========|start|sensor timer publish  seq : 199.  at 2134731
+==========|end  |action sub   received seq : 199.  at 2135360
+==========|start|temperature timer publish  seq : 399.  at 2137278
+==========|end  |temperature sub   received seq : 399.  at 2137955
+==========|start|temperature timer publish  seq : 400.  at 2139923
+==========|end  |temperature sub   received seq : 400.  at 2140597
+==========|start|sensor timer publish  seq : 200.  at 2144731
+==========|end  |action sub   received seq : 200.  at 2145360
+==========|start|temperature timer publish  seq : 401.  at 2147278
+==========|end  |temperature sub   received seq : 401.  at 2147952
+==========|start|temperature timer publish  seq : 402.  at 2149920
+==========|end  |temperature sub   received seq : 402.  at 2150594
+==========|start|sensor timer publish  seq : 201.  at 2154731
+==========|end  |action sub   received seq : 201.  at 2155360
+==========|start|temperature timer publish  seq : 403.  at 2157277
+==========|end  |temperature sub   received seq : 403.  at 2157952
+==========|start|temperature timer publish  seq : 404.  at 2159920
+==========|end  |temperature sub   received seq : 404.  at 2160594
+==========|start|sensor timer publish  seq : 202.  at 2164731
+==========|end  |action sub   received seq : 202.  at 2165360
+==========|start|temperature timer publish  seq : 405.  at 2167276
+==========|end  |temperature sub   received seq : 405.  at 2167950
+==========|start|temperature timer publish  seq : 406.  at 2169919
+==========|end  |temperature sub   received seq : 406.  at 2170593
+==========|start|sensor timer publish  seq : 203.  at 2174731
+==========|end  |action sub   received seq : 203.  at 2175360
+==========|start|temperature timer publish  seq : 407.  at 2177278
+==========|end  |temperature sub   received seq : 407.  at 2177952
+==========|start|temperature timer publish  seq : 408.  at 2179930
+==========|end  |temperature sub   received seq : 408.  at 2180604
+==========|start|sensor timer publish  seq : 204.  at 2184739
+==========|end  |action sub   received seq : 204.  at 2185368
+==========|start|temperature timer publish  seq : 409.  at 2187286
+==========|end  |temperature sub   received seq : 409.  at 2187960
+==========|start|temperature timer publish  seq : 410.  at 2189928
+==========|end  |temperature sub   received seq : 410.  at 2190602
+==========|start|sensor timer publish  seq : 205.  at 2194731
+==========|end  |action sub   received seq : 205.  at 2195360
+==========|start|temperature timer publish  seq : 411.  at 2197278
+==========|end  |temperature sub   received seq : 411.  at 2197952
+==========|start|temperature timer publish  seq : 412.  at 2199919
+==========|end  |temperature sub   received seq : 412.  at 2200593
+==========|start|sensor timer publish  seq : 206.  at 2204730
+==========|end  |action sub   received seq : 206.  at 2205358
+==========|start|temperature timer publish  seq : 413.  at 2207276
+==========|end  |temperature sub   received seq : 413.  at 2207951
+==========|start|temperature timer publish  seq : 414.  at 2209919
+==========|end  |temperature sub   received seq : 414.  at 2210593
+==========|start|sensor timer publish  seq : 207.  at 2214731
+==========|end  |action sub   received seq : 207.  at 2215360
+==========|start|temperature timer publish  seq : 415.  at 2217278
+==========|end  |temperature sub   received seq : 415.  at 2217953
+==========|start|temperature timer publish  seq : 416.  at 2219921
+==========|end  |temperature sub   received seq : 416.  at 2220595
+==========|start|sensor timer publish  seq : 208.  at 2224729
+==========|end  |action sub   received seq : 208.  at 2225358
+==========|start|temperature timer publish  seq : 417.  at 2227276
+==========|end  |temperature sub   received seq : 417.  at 2227950
+==========|start|temperature timer publish  seq : 418.  at 2229919
+==========|end  |temperature sub   received seq : 418.  at 2230593
+==========|start|sensor timer publish  seq : 209.  at 2234732
+==========|end  |action sub   received seq : 209.  at 2235358
+==========|start|temperature timer publish  seq : 419.  at 2237276
+==========|end  |temperature sub   received seq : 419.  at 2237951
+==========|start|temperature timer publish  seq : 420.  at 2239919
+==========|end  |temperature sub   received seq : 420.  at 2240593
+==========|start|sensor timer publish  seq : 210.  at 2244732
+==========|end  |action sub   received seq : 210.  at 2245361
+==========|start|temperature timer publish  seq : 421.  at 2247278
+==========|end  |temperature sub   received seq : 421.  at 2247953
+==========|start|temperature timer publish  seq : 422.  at 2249920
+==========|end  |temperature sub   received seq : 422.  at 2250594
+==========|start|sensor timer publish  seq : 211.  at 2254740
+==========|end  |action sub   received seq : 211.  at 2255366
+==========|start|temperature timer publish  seq : 423.  at 2257282
+==========|end  |temperature sub   received seq : 423.  at 2257957
+==========|start|temperature timer publish  seq : 424.  at 2259925
+==========|end  |temperature sub   received seq : 424.  at 2260599
+==========|start|sensor timer publish  seq : 212.  at 2264740
+==========|end  |action sub   received seq : 212.  at 2265371
+==========|start|temperature timer publish  seq : 425.  at 2267297
+==========|end  |temperature sub   received seq : 425.  at 2267974
+==========|start|temperature timer publish  seq : 426.  at 2269942
+==========|end  |temperature sub   received seq : 426.  at 2270616
+==========|start|sensor timer publish  seq : 213.  at 2274731
+==========|end  |action sub   received seq : 213.  at 2275360
+==========|start|temperature timer publish  seq : 427.  at 2277278
+==========|end  |temperature sub   received seq : 427.  at 2277952
+==========|start|temperature timer publish  seq : 428.  at 2279919
+==========|end  |temperature sub   received seq : 428.  at 2280593
+==========|start|sensor timer publish  seq : 214.  at 2284730
+==========|end  |action sub   received seq : 214.  at 2285358
+==========|start|temperature timer publish  seq : 429.  at 2287275
+==========|end  |temperature sub   received seq : 429.  at 2287950
+==========|start|temperature timer publish  seq : 430.  at 2289918
+==========|end  |temperature sub   received seq : 430.  at 2290592
+==========|start|sensor timer publish  seq : 215.  at 2294731
+==========|end  |action sub   received seq : 215.  at 2295360
+==========|start|temperature timer publish  seq : 431.  at 2297277
+==========|end  |temperature sub   received seq : 431.  at 2297952
+==========|start|temperature timer publish  seq : 432.  at 2299921
+==========|end  |temperature sub   received seq : 432.  at 2300595
+==========|start|sensor timer publish  seq : 216.  at 2304731
+==========|end  |action sub   received seq : 216.  at 2305357
+==========|start|temperature timer publish  seq : 433.  at 2307275
+==========|end  |temperature sub   received seq : 433.  at 2307950
+==========|start|temperature timer publish  seq : 434.  at 2309918
+==========|end  |temperature sub   received seq : 434.  at 2310592
+==========|start|sensor timer publish  seq : 217.  at 2314731
+==========|end  |action sub   received seq : 217.  at 2315358
+==========|start|temperature timer publish  seq : 435.  at 2317275
+==========|end  |temperature sub   received seq : 435.  at 2317950
+==========|start|temperature timer publish  seq : 436.  at 2319918
+==========|end  |temperature sub   received seq : 436.  at 2320592
+==========|start|sensor timer publish  seq : 218.  at 2324732
+==========|end  |action sub   received seq : 218.  at 2325361
+==========|start|temperature timer publish  seq : 437.  at 2327279
+==========|end  |temperature sub   received seq : 437.  at 2327954
+==========|start|temperature timer publish  seq : 438.  at 2329922
+==========|end  |temperature sub   received seq : 438.  at 2330596
+==========|start|sensor timer publish  seq : 219.  at 2334732
+==========|end  |action sub   received seq : 219.  at 2335361
+==========|start|temperature timer publish  seq : 439.  at 2337279
+==========|end  |temperature sub   received seq : 439.  at 2337953
+==========|start|temperature timer publish  seq : 440.  at 2339921
+==========|end  |temperature sub   received seq : 440.  at 2340595
+==========|start|sensor timer publish  seq : 220.  at 2344732
+==========|end  |action sub   received seq : 220.  at 2345361
+==========|start|temperature timer publish  seq : 441.  at 2347279
+==========|end  |temperature sub   received seq : 441.  at 2347953
+==========|start|temperature timer publish  seq : 442.  at 2349922
+==========|end  |temperature sub   received seq : 442.  at 2350596
+==========|start|sensor timer publish  seq : 221.  at 2354731
+==========|end  |action sub   received seq : 221.  at 2355360
+==========|start|temperature timer publish  seq : 443.  at 2357277
+==========|end  |temperature sub   received seq : 443.  at 2357951
+==========|start|temperature timer publish  seq : 444.  at 2359920
+==========|end  |temperature sub   received seq : 444.  at 2360594
+==========|start|sensor timer publish  seq : 222.  at 2364732
+==========|end  |action sub   received seq : 222.  at 2365358
+==========|start|temperature timer publish  seq : 445.  at 2367276
+==========|end  |temperature sub   received seq : 445.  at 2367951
+==========|start|temperature timer publish  seq : 446.  at 2369919
+==========|end  |temperature sub   received seq : 446.  at 2370593
+==========|start|sensor timer publish  seq : 223.  at 2374731
+==========|end  |action sub   received seq : 223.  at 2375360
+==========|start|temperature timer publish  seq : 447.  at 2377277
+==========|end  |temperature sub   received seq : 447.  at 2377952
+==========|start|temperature timer publish  seq : 448.  at 2379920
+==========|end  |temperature sub   received seq : 448.  at 2380594
+==========|start|sensor timer publish  seq : 224.  at 2384732
+==========|end  |action sub   received seq : 224.  at 2385361
+==========|start|temperature timer publish  seq : 449.  at 2387278
+==========|end  |temperature sub   received seq : 449.  at 2387952
+==========|start|temperature timer publish  seq : 450.  at 2389919
+==========|end  |temperature sub   received seq : 450.  at 2390593
+==========|start|sensor timer publish  seq : 225.  at 2394731
+==========|end  |action sub   received seq : 225.  at 2395360
+==========|start|temperature timer publish  seq : 451.  at 2397278
+==========|end  |temperature sub   received seq : 451.  at 2397952
+==========|start|temperature timer publish  seq : 452.  at 2399921
+==========|end  |temperature sub   received seq : 452.  at 2400595
+==========|start|sensor timer publish  seq : 226.  at 2404732
+==========|end  |action sub   received seq : 226.  at 2405361
+==========|start|temperature timer publish  seq : 453.  at 2407278
+==========|end  |temperature sub   received seq : 453.  at 2407953
+==========|start|temperature timer publish  seq : 454.  at 2409921
+==========|end  |temperature sub   received seq : 454.  at 2410595
+==========|start|sensor timer publish  seq : 227.  at 2414731
+==========|end  |action sub   received seq : 227.  at 2415357
+==========|start|temperature timer publish  seq : 455.  at 2417275
+==========|end  |temperature sub   received seq : 455.  at 2417949
+==========|start|temperature timer publish  seq : 456.  at 2419918
+==========|end  |temperature sub   received seq : 456.  at 2420592
+==========|start|sensor timer publish  seq : 228.  at 2424731
+==========|end  |action sub   received seq : 228.  at 2425357
+==========|start|temperature timer publish  seq : 457.  at 2427274
+==========|end  |temperature sub   received seq : 457.  at 2427948
+==========|start|temperature timer publish  seq : 458.  at 2429915
+==========|end  |temperature sub   received seq : 458.  at 2430589
+==========|start|sensor timer publish  seq : 229.  at 2434731
+==========|end  |action sub   received seq : 229.  at 2435357
+==========|start|temperature timer publish  seq : 459.  at 2437274
+==========|end  |temperature sub   received seq : 459.  at 2437948
+==========|start|temperature timer publish  seq : 460.  at 2439917
+==========|end  |temperature sub   received seq : 460.  at 2440591
+==========|start|sensor timer publish  seq : 230.  at 2444732
+==========|end  |action sub   received seq : 230.  at 2445361
+==========|start|temperature timer publish  seq : 461.  at 2447279
+==========|end  |temperature sub   received seq : 461.  at 2447953
+==========|start|temperature timer publish  seq : 462.  at 2449921
+==========|end  |temperature sub   received seq : 462.  at 2450595
+==========|start|sensor timer publish  seq : 231.  at 2454732
+==========|end  |action sub   received seq : 231.  at 2455361
+==========|start|temperature timer publish  seq : 463.  at 2457279
+==========|end  |temperature sub   received seq : 463.  at 2457953
+==========|start|temperature timer publish  seq : 464.  at 2459922
+==========|end  |temperature sub   received seq : 464.  at 2460596
+==========|start|sensor timer publish  seq : 232.  at 2464732
+==========|end  |action sub   received seq : 232.  at 2465358
+==========|start|temperature timer publish  seq : 465.  at 2467275
+==========|end  |temperature sub   received seq : 465.  at 2467949
+==========|start|temperature timer publish  seq : 466.  at 2469918
+==========|end  |temperature sub   received seq : 466.  at 2470592
+==========|start|sensor timer publish  seq : 233.  at 2474732
+==========|end  |action sub   received seq : 233.  at 2475358
+==========|start|temperature timer publish  seq : 467.  at 2477276
+==========|end  |temperature sub   received seq : 467.  at 2477951
+==========|start|temperature timer publish  seq : 468.  at 2479919
+==========|end  |temperature sub   received seq : 468.  at 2480593
+==========|start|sensor timer publish  seq : 234.  at 2484732
+==========|end  |action sub   received seq : 234.  at 2485360
+==========|start|temperature timer publish  seq : 469.  at 2487277
+==========|end  |temperature sub   received seq : 469.  at 2487952
+==========|start|temperature timer publish  seq : 470.  at 2489920
+==========|end  |temperature sub   received seq : 470.  at 2490594
+==========|start|sensor timer publish  seq : 235.  at 2494731
+==========|end  |action sub   received seq : 235.  at 2495360
+==========|start|temperature timer publish  seq : 471.  at 2497278
+==========|end  |temperature sub   received seq : 471.  at 2497952
+==========|start|temperature timer publish  seq : 472.  at 2499920
+==========|end  |temperature sub   received seq : 472.  at 2500594
+==========|start|sensor timer publish  seq : 236.  at 2504731
+==========|end  |action sub   received seq : 236.  at 2505358
+==========|start|temperature timer publish  seq : 473.  at 2507276
+==========|end  |temperature sub   received seq : 473.  at 2507951
+==========|start|temperature timer publish  seq : 474.  at 2509919
+==========|end  |temperature sub   received seq : 474.  at 2510593
+==========|start|sensor timer publish  seq : 237.  at 2514732
+==========|end  |action sub   received seq : 237.  at 2515361
+==========|start|temperature timer publish  seq : 475.  at 2517277
+==========|end  |temperature sub   received seq : 475.  at 2517951
+==========|start|temperature timer publish  seq : 476.  at 2519919
+==========|end  |temperature sub   received seq : 476.  at 2520593
+==========|start|sensor timer publish  seq : 238.  at 2524731
+==========|end  |action sub   received seq : 238.  at 2525360
+==========|start|temperature timer publish  seq : 477.  at 2527277
+==========|end  |temperature sub   received seq : 477.  at 2527951
+==========|start|temperature timer publish  seq : 478.  at 2529920
+==========|end  |temperature sub   received seq : 478.  at 2530594
+==========|start|sensor timer publish  seq : 239.  at 2534731
+==========|end  |action sub   received seq : 239.  at 2535359
+==========|start|temperature timer publish  seq : 479.  at 2537277
+==========|end  |temperature sub   received seq : 479.  at 2537952
+==========|start|temperature timer publish  seq : 480.  at 2539920
+==========|end  |temperature sub   received seq : 480.  at 2540594
+==========|start|sensor timer publish  seq : 240.  at 2544731
+==========|end  |action sub   received seq : 240.  at 2545360
+==========|start|temperature timer publish  seq : 481.  at 2547278
+==========|end  |temperature sub   received seq : 481.  at 2547953
+==========|start|temperature timer publish  seq : 482.  at 2549921
+==========|end  |temperature sub   received seq : 482.  at 2550595
+==========|start|sensor timer publish  seq : 241.  at 2554732
+==========|end  |action sub   received seq : 241.  at 2555361
+==========|start|temperature timer publish  seq : 483.  at 2557279
+==========|end  |temperature sub   received seq : 483.  at 2557953
+==========|start|temperature timer publish  seq : 484.  at 2559921
+==========|end  |temperature sub   received seq : 484.  at 2560595
+==========|start|sensor timer publish  seq : 242.  at 2564731
+==========|end  |action sub   received seq : 242.  at 2565360
+==========|start|temperature timer publish  seq : 485.  at 2567277
+==========|end  |temperature sub   received seq : 485.  at 2567952
+==========|start|temperature timer publish  seq : 486.  at 2569920
+==========|end  |temperature sub   received seq : 486.  at 2570594
+==========|start|sensor timer publish  seq : 243.  at 2574731
+==========|end  |action sub   received seq : 243.  at 2575360
+==========|start|temperature timer publish  seq : 487.  at 2577276
+==========|end  |temperature sub   received seq : 487.  at 2577950
+==========|start|temperature timer publish  seq : 488.  at 2579919
+==========|end  |temperature sub   received seq : 488.  at 2580593
+==========|start|sensor timer publish  seq : 244.  at 2584732
+==========|end  |action sub   received seq : 244.  at 2585361
+==========|start|temperature timer publish  seq : 489.  at 2587279
+==========|end  |temperature sub   received seq : 489.  at 2587953
+==========|start|temperature timer publish  seq : 490.  at 2589920
+==========|end  |temperature sub   received seq : 490.  at 2590594
+==========|start|sensor timer publish  seq : 245.  at 2594731
+==========|end  |action sub   received seq : 245.  at 2595360
+==========|start|temperature timer publish  seq : 491.  at 2597277
+==========|end  |temperature sub   received seq : 491.  at 2597952
+==========|start|temperature timer publish  seq : 492.  at 2599920
+==========|end  |temperature sub   received seq : 492.  at 2600594
+==========|start|sensor timer publish  seq : 246.  at 2604732
+==========|end  |action sub   received seq : 246.  at 2605361
+==========|start|temperature timer publish  seq : 493.  at 2607278
+==========|end  |temperature sub   received seq : 493.  at 2607952
+==========|start|temperature timer publish  seq : 494.  at 2609920
+==========|end  |temperature sub   received seq : 494.  at 2610594
+==========|start|sensor timer publish  seq : 247.  at 2614730
+==========|end  |action sub   received seq : 247.  at 2615359
+==========|start|temperature timer publish  seq : 495.  at 2617276
+==========|end  |temperature sub   received seq : 495.  at 2617951
+==========|start|temperature timer publish  seq : 496.  at 2619919
+==========|end  |temperature sub   received seq : 496.  at 2620593
+==========|start|sensor timer publish  seq : 248.  at 2624732
+==========|end  |action sub   received seq : 248.  at 2625361
+==========|start|temperature timer publish  seq : 497.  at 2627277
+==========|end  |temperature sub   received seq : 497.  at 2627951
+==========|start|temperature timer publish  seq : 498.  at 2629919
+==========|end  |temperature sub   received seq : 498.  at 2630593
+==========|start|sensor timer publish  seq : 249.  at 2634731
+==========|end  |action sub   received seq : 249.  at 2635360
+==========|start|temperature timer publish  seq : 499.  at 2637278
+==========|end  |temperature sub   received seq : 499.  at 2637952
+==========|start|temperature timer publish  seq : 500.  at 2639920
+==========|end  |temperature sub   received seq : 500.  at 2640594
+==========|start|sensor timer publish  seq : 250.  at 2644731
+==========|end  |action sub   received seq : 250.  at 2645359
+==========|start|temperature timer publish  seq : 501.  at 2647277
+==========|end  |temperature sub   received seq : 501.  at 2647952
+==========|start|temperature timer publish  seq : 502.  at 2649920
+==========|end  |temperature sub   received seq : 502.  at 2650594
+==========|start|sensor timer publish  seq : 251.  at 2654730
+==========|end  |action sub   received seq : 251.  at 2655359
+==========|start|temperature timer publish  seq : 503.  at 2657277
+==========|end  |temperature sub   received seq : 503.  at 2657951
+==========|start|temperature timer publish  seq : 504.  at 2659928
+==========|end  |temperature sub   received seq : 504.  at 2660602
+==========|start|sensor timer publish  seq : 252.  at 2664732
+==========|end  |action sub   received seq : 252.  at 2665361
+==========|start|temperature timer publish  seq : 505.  at 2667279
+==========|end  |temperature sub   received seq : 505.  at 2667953
+==========|start|temperature timer publish  seq : 506.  at 2669921
+==========|end  |temperature sub   received seq : 506.  at 2670595
+==========|start|sensor timer publish  seq : 253.  at 2674731
+==========|end  |action sub   received seq : 253.  at 2675360
+==========|start|temperature timer publish  seq : 507.  at 2677277
+==========|end  |temperature sub   received seq : 507.  at 2677952
+==========|start|temperature timer publish  seq : 508.  at 2679920
+==========|end  |temperature sub   received seq : 508.  at 2680594
+==========|start|sensor timer publish  seq : 254.  at 2684731
+==========|end  |action sub   received seq : 254.  at 2685360
+==========|start|temperature timer publish  seq : 509.  at 2687278
+==========|end  |temperature sub   received seq : 509.  at 2687952
+==========|start|temperature timer publish  seq : 510.  at 2689920
+==========|end  |temperature sub   received seq : 510.  at 2690594
+==========|start|sensor timer publish  seq : 255.  at 2694731
+==========|end  |action sub   received seq : 255.  at 2695357
+==========|start|temperature timer publish  seq : 511.  at 2697275
+==========|end  |temperature sub   received seq : 511.  at 2697950
+==========|start|temperature timer publish  seq : 512.  at 2699918
+==========|end  |temperature sub   received seq : 512.  at 2700592
+==========|start|sensor timer publish  seq : 256.  at 2704731
+==========|end  |action sub   received seq : 256.  at 2705360
+==========|start|temperature timer publish  seq : 513.  at 2707277
+==========|end  |temperature sub   received seq : 513.  at 2707952
+==========|start|temperature timer publish  seq : 514.  at 2709919
+==========|end  |temperature sub   received seq : 514.  at 2710593
+==========|start|sensor timer publish  seq : 257.  at 2714732
+==========|end  |action sub   received seq : 257.  at 2715361
+==========|start|temperature timer publish  seq : 515.  at 2717277
+==========|end  |temperature sub   received seq : 515.  at 2717951
