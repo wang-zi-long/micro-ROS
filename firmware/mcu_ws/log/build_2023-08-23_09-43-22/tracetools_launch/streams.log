@@ -1,0 +1,48 @@
+[0.782s] Invoking command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/tracetools/tracetools_launch': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_trace:${AMENT_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/prefix_override:/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_trace/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_launch build --build-base /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build install --record /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/install.log --single-version-externally-managed
+[0.966s] running egg_info
+[0.967s] creating ../../../build/tracetools_launch/tracetools_launch.egg-info
+[0.969s] writing ../../../build/tracetools_launch/tracetools_launch.egg-info/PKG-INFO
+[0.969s] writing dependency_links to ../../../build/tracetools_launch/tracetools_launch.egg-info/dependency_links.txt
+[0.969s] writing entry points to ../../../build/tracetools_launch/tracetools_launch.egg-info/entry_points.txt
+[0.970s] writing requirements to ../../../build/tracetools_launch/tracetools_launch.egg-info/requires.txt
+[0.970s] writing top-level names to ../../../build/tracetools_launch/tracetools_launch.egg-info/top_level.txt
+[0.970s] writing manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[0.984s] reading manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[0.985s] writing manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[0.985s] running build
+[0.985s] running build_py
+[0.985s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build
+[0.985s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib
+[0.985s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[0.985s] copying tracetools_launch/__init__.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[0.985s] copying tracetools_launch/action.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[0.985s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[0.985s] copying tracetools_launch/actions/__init__.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[0.985s] copying tracetools_launch/actions/ld_preload.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[0.985s] running install
+[0.986s] running install_lib
+[0.987s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch
+[0.987s] copying /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/__init__.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch
+[0.987s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch/actions
+[0.987s] copying /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions/__init__.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch/actions
+[0.987s] copying /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions/ld_preload.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch/actions
+[0.987s] copying /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/action.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch
+[0.988s] byte-compiling /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch/__init__.py to __init__.cpython-38.pyc
+[0.988s] byte-compiling /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch/actions/__init__.py to __init__.cpython-38.pyc
+[0.989s] byte-compiling /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch/actions/ld_preload.py to ld_preload.cpython-38.pyc
+[0.989s] byte-compiling /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch/action.py to action.cpython-38.pyc
+[0.990s] running install_data
+[0.991s] copying package.xml -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/tracetools_launch
+[0.991s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/tracetools_launch/launch
+[0.991s] copying launch/example.launch.yaml -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/tracetools_launch/launch
+[0.991s] copying launch/example.launch.xml -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/tracetools_launch/launch
+[0.991s] copying launch/example.launch.py -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/tracetools_launch/launch
+[0.991s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/ament_index
+[0.991s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/ament_index/resource_index
+[0.991s] creating /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/ament_index/resource_index/packages
+[0.991s] copying resource/tracetools_launch -> /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/share/ament_index/resource_index/packages
+[0.991s] running install_egg_info
+[0.992s] Copying ../../../build/tracetools_launch/tracetools_launch.egg-info to /home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages/tracetools_launch-4.1.1-py3.8.egg-info
+[0.992s] running install_scripts
+[1.008s] writing list of installed files to '/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/install.log'
+[1.027s] Invoked command in '/home/neu/Desktop/microros_ws/firmware/mcu_ws/uros/tracetools/tracetools_launch' returned '0': AMENT_PREFIX_PATH=/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_trace:${AMENT_PREFIX_PATH} PYTHONPATH=/home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/prefix_override:/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_launch/lib/python3.8/site-packages:/home/neu/Desktop/microros_ws/firmware/mcu_ws/install/tracetools_trace/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_launch build --build-base /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/build install --record /home/neu/Desktop/microros_ws/firmware/mcu_ws/build/tracetools_launch/install.log --single-version-externally-managed

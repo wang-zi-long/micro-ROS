@@ -59,6 +59,16 @@ rmw_ret_t rmw_uros_set_custom_transport(
   write_custom_func write_cb,
   read_custom_func read_cb);
 
+rmw_ret_t rmw_uros_set_custom_transport_new(
+  bool framing,
+  void * args,
+  open_custom_func open_cb,
+  close_custom_func close_cb,
+  write_custom_func write_cb,
+  read_custom_func read_cb,
+  DMA_memtomem_func DMA_memtomem,
+  Check_data_complate_func DMA_data_coplate);
+
 /**
  * \brief  Fills rmw implementation-specific options with the given custom transport.
  *
@@ -79,6 +89,17 @@ rmw_ret_t rmw_uros_options_set_custom_transport(
   close_custom_func close_cb,
   write_custom_func write_cb,
   read_custom_func read_cb,
+  rmw_init_options_t * rmw_options);
+
+rmw_ret_t rmw_uros_options_set_custom_transport_new(
+  bool framing,
+  void * args,
+  open_custom_func open_cb,
+  close_custom_func close_cb,
+  write_custom_func write_cb,
+  read_custom_func read_cb,
+  DMA_memtomem_func DMA_memtomem,
+  Check_data_complate_func Check_data_complate,
   rmw_init_options_t * rmw_options);
 
 /** @}*/

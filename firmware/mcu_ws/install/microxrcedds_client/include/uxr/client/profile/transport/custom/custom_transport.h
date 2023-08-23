@@ -83,6 +83,11 @@ typedef size_t (* read_custom_func) (
         int timeout,
         uint8_t* error_code);
 
+typedef void (* DMA_memtomem_func) 
+        (int32_t SrcAddress, int32_t DstAddress, int32_t DataLength);
+
+typedef bool (* Check_data_complate_func)
+        (int32_t DataLength);
 /**
  * @nosubgrouping
  */
@@ -96,6 +101,8 @@ typedef struct uxrCustomTransport
     close_custom_func close;
     write_custom_func write;
     read_custom_func read;
+    DMA_memtomem_func DMA_memtomem;
+    Check_data_complate_func Check_data_complate;
     uxrCommunication comm;
     void* args;
 } uxrCustomTransport;
@@ -117,6 +124,16 @@ UXRDLLAPI void uxr_set_custom_transport_callbacks(
         close_custom_func close,
         write_custom_func write,
         read_custom_func read);
+
+UXRDLLAPI void uxr_set_custom_transport_callbacks_new(
+        uxrCustomTransport* transport,
+        bool framing,
+        open_custom_func open,
+        close_custom_func close,
+        write_custom_func write,
+        read_custom_func read,
+        DMA_memtomem_func DMA_memtomem,
+        Check_data_complate_func Check_data_complate);
 
 /**
  * @brief Initializes a Custom transport.

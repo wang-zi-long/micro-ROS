@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import random
 
-file_name = "/home/neu/Desktop/microros_ws/result_log/test6.log"
+file_name = "/home/neu/Desktop/microros_ws/result_log/test1.log"
 
 sensor = "sensor timer publish"
 action = "action sub   received"
@@ -15,10 +15,10 @@ temp1  = "temperature timer publish"
 temp2  = "temperature sub   received"
 
 global shake
-shake = 5
+shake = 10
 
 global max_size1
-max_size1 = 60
+max_size1 = 90
 
 global max_size2
 max_size2 = 300
@@ -42,7 +42,7 @@ end1       = [x for x in range(len(content)) if (action) in content[x]]
 start3     = [x for x in range(len(content)) if (temp1) in content[x]]
 end3	   = [x for x in range(len(content)) if (temp2) in content[x]]
 #size1	   = min(len(start1), len(end1))
-#size2      = min(len(start1), len(end2))
+#size2     = min(len(start1), len(end2))
 #size3 	   = min(len(start3), len(end3))
 size1	   = max_size1
 size3 	   = max_size2
@@ -77,9 +77,9 @@ for i in range(len(mtrx3)) :
 
 print(np.mean(chain1)/100)
 #print(np.mean(chain2))
-print(np.mean(chain3)/100)
+#print(np.mean(chain3)/100)
 print(np.std(chain1))
-print(np.std(chain3))
+#print(np.std(chain3))
 
 """"
 global num

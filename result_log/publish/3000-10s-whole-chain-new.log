@@ -1,0 +1,72 @@
+==========|start|sensor timer publish  seq : 0.  at 42859
+==========|start|sensor timer publish  seq : 1.  at 69651
+==========|start|sensor timer publish  seq : 2.  at 97455
+==========|end  |action sub   received seq : 0.  at 124234
+==========|start|sensor timer publish  seq : 3.  at 125546
+==========|end  |action sub   received seq : 1.  at 152336
+==========|start|sensor timer publish  seq : 4.  at 153647
+==========|end  |action sub   received seq : 2.  at 180435
+==========|start|sensor timer publish  seq : 5.  at 181747
+==========|end  |action sub   received seq : 3.  at 208536
+==========|start|sensor timer publish  seq : 6.  at 209848
+==========|end  |action sub   received seq : 4.  at 236637
+==========|start|sensor timer publish  seq : 7.  at 237948
+==========|end  |action sub   received seq : 5.  at 264736
+==========|start|sensor timer publish  seq : 8.  at 266047
+==========|end  |action sub   received seq : 6.  at 292839
+==========|start|sensor timer publish  seq : 9.  at 294151
+==========|end  |action sub   received seq : 7.  at 320937
+==========|start|sensor timer publish  seq : 10.  at 322249
+==========|end  |action sub   received seq : 8.  at 349044
+==========|start|sensor timer publish  seq : 11.  at 350356
+==========|end  |action sub   received seq : 9.  at 377154
+==========|start|sensor timer publish  seq : 12.  at 378467
+==========|end  |action sub   received seq : 10.  at 405265
+==========|start|sensor timer publish  seq : 13.  at 406587
+==========|end  |action sub   received seq : 11.  at 433384
+==========|start|sensor timer publish  seq : 14.  at 434706
+==========|end  |action sub   received seq : 12.  at 461504
+==========|start|sensor timer publish  seq : 15.  at 462837
+==========|end  |action sub   received seq : 13.  at 489637
+==========|start|sensor timer publish  seq : 16.  at 490966
+==========|end  |action sub   received seq : 14.  at 517765
+==========|start|sensor timer publish  seq : 17.  at 519094
+==========|end  |action sub   received seq : 15.  at 545890
+==========|start|sensor timer publish  seq : 18.  at 547219
+==========|end  |action sub   received seq : 16.  at 574016
+==========|start|sensor timer publish  seq : 19.  at 575346
+==========|end  |action sub   received seq : 17.  at 602146
+==========|start|sensor timer publish  seq : 20.  at 603474
+==========|end  |action sub   received seq : 18.  at 630271
+==========|start|sensor timer publish  seq : 21.  at 631600
+==========|end  |action sub   received seq : 19.  at 658399
+==========|start|sensor timer publish  seq : 22.  at 659728
+==========|end  |action sub   received seq : 20.  at 686525
+==========|start|sensor timer publish  seq : 23.  at 687854
+==========|end  |action sub   received seq : 21.  at 714652
+==========|start|sensor timer publish  seq : 24.  at 715981
+==========|end  |action sub   received seq : 22.  at 742782
+==========|start|sensor timer publish  seq : 25.  at 744111
+==========|end  |action sub   received seq : 23.  at 770908
+==========|start|sensor timer publish  seq : 26.  at 772237
+==========|end  |action sub   received seq : 24.  at 799036
+==========|start|sensor timer publish  seq : 27.  at 800366
+==========|end  |action sub   received seq : 25.  at 827162
+==========|start|sensor timer publish  seq : 28.  at 828492
+==========|end  |action sub   received seq : 26.  at 855292
+==========|start|sensor timer publish  seq : 29.  at 856622
+==========|end  |action sub   received seq : 27.  at 883421
+==========|start|sensor timer publish  seq : 30.  at 884750
+==========|end  |action sub   received seq : 28.  at 911544
+==========|start|sensor timer publish  seq : 31.  at 912874
+==========|end  |action sub   received seq : 29.  at 939670
+==========|start|sensor timer publish  seq : 32.  at 940999
+==========|end  |action sub   received seq : 30.  at 967796
+==========|start|sensor timer publish  seq : 33.  at 969126
+==========|end  |action sub   received seq : 31.  at 995923
+==========|start|sensor timer publish  seq : 34.  at 997251
+==========|end  |action sub   received seq : 32.  at 1024049
+==========|start|sensor timer publish  seq : 35.  at 1025388
+==========|end  |action sub   received seq : 33.  at 1052196
+Failed status on line 143: 1. Aborting.
+

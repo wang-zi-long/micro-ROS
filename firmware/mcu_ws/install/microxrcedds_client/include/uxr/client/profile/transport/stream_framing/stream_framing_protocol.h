@@ -20,6 +20,9 @@ extern "C"
 #endif // ifdef __cplusplus
 
 #include <stdint.h>
+//here must be change
+//#include "/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/priority_queue.h"
+#include "/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/include/priority_queue.h"
 
 #define UXR_FRAMING_BEGIN_FLAG 0x7E
 #define UXR_FRAMING_ESC_FLAG 0x7D
@@ -42,12 +45,12 @@ typedef struct uxrFramingIO
 {
     uxrFramingInputState state;
     uint8_t local_addr;
-    uint8_t rb[42];
-    uint8_t rb_head;
-    uint8_t rb_tail;
+    uint8_t rb[BUFFER_MAX_SIZE];
+    int rb_head;
+    int rb_tail;
     uint8_t src_addr;
-    uint16_t msg_len;
-    uint16_t msg_pos;
+    int msg_len;
+    int msg_pos;
     uint16_t msg_crc;
     uint16_t cmp_crc;
     uint8_t wb[42];

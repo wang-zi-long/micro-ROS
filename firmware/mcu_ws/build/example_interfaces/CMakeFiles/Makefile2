@@ -85,8 +85,8 @@ clean: CMakeFiles/example_interfaces__rosidl_typesupport_introspection_c.dir/cle
 
 # All Build rule for target.
 CMakeFiles/example_interfaces.dir/all: CMakeFiles/example_interfaces__rosidl_generator_c.dir/all
-CMakeFiles/example_interfaces.dir/all: CMakeFiles/example_interfaces__rosidl_typesupport_c.dir/all
 CMakeFiles/example_interfaces.dir/all: CMakeFiles/example_interfaces__rosidl_typesupport_microxrcedds_c.dir/all
+CMakeFiles/example_interfaces.dir/all: CMakeFiles/example_interfaces__rosidl_typesupport_c.dir/all
 CMakeFiles/example_interfaces.dir/all: CMakeFiles/example_interfaces__rosidl_typesupport_introspection_c.dir/all
 	$(MAKE) -f CMakeFiles/example_interfaces.dir/build.make CMakeFiles/example_interfaces.dir/depend
 	$(MAKE) -f CMakeFiles/example_interfaces.dir/build.make CMakeFiles/example_interfaces.dir/build

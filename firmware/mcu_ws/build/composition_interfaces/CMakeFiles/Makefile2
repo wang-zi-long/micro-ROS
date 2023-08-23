@@ -138,9 +138,9 @@ CMakeFiles/composition_interfaces_uninstall.dir/clean:
 # Target rules for target CMakeFiles/composition_interfaces.dir
 
 # All Build rule for target.
-CMakeFiles/composition_interfaces.dir/all: CMakeFiles/composition_interfaces__rosidl_generator_c.dir/all
 CMakeFiles/composition_interfaces.dir/all: CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/composition_interfaces.dir/all: CMakeFiles/composition_interfaces__rosidl_typesupport_microxrcedds_c.dir/all
+CMakeFiles/composition_interfaces.dir/all: CMakeFiles/composition_interfaces__rosidl_generator_c.dir/all
 CMakeFiles/composition_interfaces.dir/all: CMakeFiles/composition_interfaces__rosidl_typesupport_c.dir/all
 	$(MAKE) -f CMakeFiles/composition_interfaces.dir/build.make CMakeFiles/composition_interfaces.dir/depend
 	$(MAKE) -f CMakeFiles/composition_interfaces.dir/build.make CMakeFiles/composition_interfaces.dir/build

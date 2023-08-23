@@ -69,7 +69,16 @@ typedef void (* uxrOnStatusFunc) (
  * @param length        Length of the serialized data.
  * @param args		    User pointer data.
  */
-typedef int (* uxrOnTopicFunc) (
+typedef void (* uxrOnTopicFunc) (
+        struct uxrSession* session,
+        uxrObjectId object_id,
+        uint16_t request_id,
+        uxrStreamId stream_id,
+        struct ucdrBuffer* ub,
+        uint16_t length,
+        void* args);
+
+typedef int (* uxrOnTopicFunc_new) (
         struct uxrSession* session,
         uxrObjectId object_id,
         uint16_t request_id,
@@ -187,6 +196,9 @@ typedef struct uxrSession
     uxrOnTopicFunc on_topic;
     void* on_topic_args;
 
+    uxrOnTopicFunc_new on_topic_new;
+    void* on_topic_args_new;
+
     uxrOnTimeFunc on_time;
     void* on_time_args;
     int64_t time_offset;
@@ -250,6 +262,10 @@ UXRDLLAPI void uxr_set_topic_callback(
         uxrOnTopicFunc on_topic_func,
         void* args);
 
+UXRDLLAPI void uxr_set_topic_callback_new(
+        uxrSession* session,
+        uxrOnTopicFunc_new on_topic_func_new,
+        void* args);
 /**
  * @brief Sets the time synchronization callback.
  *        The callback is called when a TIMESTAMP_REPLY submessage is received from the Agent.

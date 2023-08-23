@@ -108,6 +108,8 @@
         "priorityqueue.h": "c",
         "time.h": "c",
         "microros_transports.h": "c",
-        "stdbool.h": "c"
+        "stdbool.h": "c",
+        "stm32_hal_legacy.h": "c",
+        "stdint.h": "c"
     }
 }

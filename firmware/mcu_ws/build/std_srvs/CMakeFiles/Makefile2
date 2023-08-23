@@ -166,8 +166,8 @@ CMakeFiles/uninstall.dir/clean:
 
 # All Build rule for target.
 CMakeFiles/std_srvs.dir/all: CMakeFiles/std_srvs__rosidl_typesupport_c.dir/all
-CMakeFiles/std_srvs.dir/all: CMakeFiles/std_srvs__rosidl_generator_c.dir/all
 CMakeFiles/std_srvs.dir/all: CMakeFiles/std_srvs__rosidl_typesupport_microxrcedds_c.dir/all
+CMakeFiles/std_srvs.dir/all: CMakeFiles/std_srvs__rosidl_generator_c.dir/all
 CMakeFiles/std_srvs.dir/all: CMakeFiles/std_srvs__rosidl_typesupport_introspection_c.dir/all
 	$(MAKE) -f CMakeFiles/std_srvs.dir/build.make CMakeFiles/std_srvs.dir/depend
 	$(MAKE) -f CMakeFiles/std_srvs.dir/build.make CMakeFiles/std_srvs.dir/build

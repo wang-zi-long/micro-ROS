@@ -84,9 +84,9 @@ clean: CMakeFiles/lifecycle_msgs__rosidl_typesupport_microxrcedds_c.dir/clean
 # Target rules for target CMakeFiles/lifecycle_msgs.dir
 
 # All Build rule for target.
-CMakeFiles/lifecycle_msgs.dir/all: CMakeFiles/lifecycle_msgs__rosidl_typesupport_microxrcedds_c.dir/all
 CMakeFiles/lifecycle_msgs.dir/all: CMakeFiles/lifecycle_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/lifecycle_msgs.dir/all: CMakeFiles/lifecycle_msgs__rosidl_generator_c.dir/all
+CMakeFiles/lifecycle_msgs.dir/all: CMakeFiles/lifecycle_msgs__rosidl_typesupport_microxrcedds_c.dir/all
 CMakeFiles/lifecycle_msgs.dir/all: CMakeFiles/lifecycle_msgs__rosidl_typesupport_c.dir/all
 	$(MAKE) -f CMakeFiles/lifecycle_msgs.dir/build.make CMakeFiles/lifecycle_msgs.dir/depend
 	$(MAKE) -f CMakeFiles/lifecycle_msgs.dir/build.make CMakeFiles/lifecycle_msgs.dir/build

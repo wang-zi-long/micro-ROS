@@ -303,7 +303,7 @@ UCLIENT_BUILD_TESTS:BOOL=OFF
 UCLIENT_CONFIG:PATH=/home/neu/Desktop/microros_ws/firmware/mcu_ws/eProsima/Micro-XRCE-DDS-Client/client.config
 
 //Set the Custom transport MTU.
-UCLIENT_CUSTOM_TRANSPORT_MTU:STRING=4200
+UCLIENT_CUSTOM_TRANSPORT_MTU:STRING=3200
 
 //Version of the C language used to build the library
 UCLIENT_C_STANDARD:STRING=99

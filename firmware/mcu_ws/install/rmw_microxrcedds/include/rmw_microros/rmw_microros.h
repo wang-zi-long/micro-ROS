@@ -66,6 +66,8 @@ typedef struct rmw_uxrce_transport_params_t
   close_custom_func close_cb;
   write_custom_func write_cb;
   read_custom_func read_cb;
+  DMA_memtomem_func DMA_memtomem;
+  Check_data_complate_func Check_data_complate;
 #endif  // if defined(RMW_UXRCE_TRANSPORT_SERIAL)
   uint32_t client_key;
 } rmw_uxrce_transport_params_t;
